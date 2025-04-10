@@ -1,0 +1,380 @@
+profession,count,percentage
+Avvocato,73,12.066115702479339
+None,58,9.586776859504132
+Imprenditore,45,7.43801652892562
+Giornalista,25,4.132231404958678
+Dirigente,18,2.975206611570248
+Consulente,17,2.809917355371901
+Docente universitario,16,2.644628099173554
+Commercialista,12,1.9834710743801653
+Medico,11,1.8181818181818181
+Impiegato,11,1.8181818181818181
+Libero Professionista,10,1.6528925619834711
+Architetto,9,1.487603305785124
+Dipendente Pubblico,8,1.322314049586777
+Parlamentare,8,1.322314049586777
+Avvocato Penalista,8,1.322314049586777
+Dipendente Di Azienda Privata,8,1.322314049586777
+Avvocato Civilista,8,1.322314049586777
+Insegnante,8,1.322314049586777
+Amministratore locale,7,1.1570247933884297
+Altra professione intellettuale o scientifica,7,1.1570247933884297
+Dirigente Di Partito,6,0.9917355371900827
+Assicuratore,6,0.9917355371900827
+Giornalista Professionista,6,0.9917355371900827
+Dirigente Di Azienda Privata,6,0.9917355371900827
+Amministratore o manager,5,0.8264462809917356
+Ingegnere,5,0.8264462809917356
+,5,0.8264462809917356
+Libero professionista,5,0.8264462809917356
+Sindaco,5,0.8264462809917356
+Insegnante Di Scuola Secondaria Superiore,5,0.8264462809917356
+Imprenditrice,5,0.8264462809917356
+Funzionario,4,0.6611570247933884
+Dottore Commercialista,4,0.6611570247933884
+Altro,4,0.6611570247933884
+Odontoiatra,4,0.6611570247933884
+Ricercatore,4,0.6611570247933884
+Imprenditore Edile,3,0.49586776859504134
+Sindacalista o esponente di associazione,3,0.49586776859504134
+Medico chirurgo,3,0.49586776859504134
+"""Dirigente d'azienda""",3,0.49586776859504134
+Quadro Intermedio,3,0.49586776859504134
+libero professionista,3,0.49586776859504134
+Docente Universitario,3,0.49586776859504134
+Farmacista,3,0.49586776859504134
+Consulente Legale,3,0.49586776859504134
+Giornalista Pubblicista,3,0.49586776859504134
+Consulente Aziendale,3,0.49586776859504134
+Professore universitario,3,0.49586776859504134
+Imprenditore Del Settore Dei Servizi,2,0.3305785123966942
+Giornalista professionista,2,0.3305785123966942
+Professore Universitario,2,0.3305785123966942
+Tecnico,2,0.3305785123966942
+Imprenditore Agricolo,2,0.3305785123966942
+docente,2,0.3305785123966942
+"""Dirigente D'Azienda""",2,0.3305785123966942
+Consulente Finanziario,2,0.3305785123966942
+Avvocato Patrocinante Nelle Giurisdizioni Superiori,2,0.3305785123966942
+Farmacista Titolare,2,0.3305785123966942
+Dipendente,2,0.3305785123966942
+Avvocato Tributarista,2,0.3305785123966942
+Insegnante Di Scuola Primaria,2,0.3305785123966942
+Geometra,2,0.3305785123966942
+Avvocato Patrocinante In Cassazione,2,0.3305785123966942
+Avvocato Amministrativista,2,0.3305785123966942
+Revisore Contabile,2,0.3305785123966942
+Funzionario pubblico,2,0.3305785123966942
+Direttore commerciale,2,0.3305785123966942
+revisore legale,2,0.3305785123966942
+Dottore commercialista,2,0.3305785123966942
+nan,2,0.3305785123966942
+Sindacalista,2,0.3305785123966942
+Funzionario di partito,2,0.3305785123966942
+Bancario,2,0.3305785123966942
+Consulente aziendale,2,0.3305785123966942
+Già Sindaco Del Comune Di Rocca San Casciano (Fc) Dal 2009 Al 2019,1,0.1652892561983471
+Ingegnere Edile E Idraulico,1,0.1652892561983471
+Imprenditrice Del Settore Metalmeccanico,1,0.1652892561983471
+Assessore Alle Politiche Sociali,1,0.1652892561983471
+Docente Universitario A Contratto,1,0.1652892561983471
+Avvocato Civilista Specializzato In Diritto Societario E Bancario,1,0.1652892561983471
+"""Generale Di Corpo D'Armata",1,0.1652892561983471
+Dipendente Istituti Di Credito,1,0.1652892561983471
+Famiglia,1,0.1652892561983471
+Consigliere Regionale,1,0.1652892561983471
+Direttore Dipartimento Chirurgico Azienda Ospedaliera A.O. Di Cosenza,1,0.1652892561983471
+Primario Uoc Di Odontoiatra,1,0.1652892561983471
+Dottore Commercilista E Revisore Dei Conti,1,0.1652892561983471
+Esperto Di Diritto Penale Commerciale,1,0.1652892561983471
+Imprenditore Del Settore Della Moda,1,0.1652892561983471
+"Arma Dei Carabinieri""",1,0.1652892561983471
+Dirigente Pubblico,1,0.1652892561983471
+Professionista Abilitato,1,0.1652892561983471
+"""Imprenditore Del Marketing E Della Pubblicita'""",1,0.1652892561983471
+Amministratore Comunale,1,0.1652892561983471
+Impiegato Amministrativo Contabile,1,0.1652892561983471
+Avvocato Patrocinante In Cassazione; Giornalista Pubblicista,1,0.1652892561983471
+Revisore Legale Dei Conti,1,0.1652892561983471
+Professore A Contratto Di Discipline Economiche; Imprenditore,1,0.1652892561983471
+Pace E Diritti Umani Nel Comune Di Forlì Dal 2019,1,0.1652892561983471
+"Già Sindaco Del Comune Di Doues E Presidente Del Consorzio Degli Enti Locali Della Valle D'Aosta""",1,0.1652892561983471
+"""Architetto",1,0.1652892561983471
+Professoressa Associata Di Analisi Matematica,1,0.1652892561983471
+Dirigente Di Istituto Di Ricerca,1,0.1652892561983471
+Amministratore Locale.,1,0.1652892561983471
+Dipendente Pubblico; Piccolo Imprenditore Agricolo,1,0.1652892561983471
+Radiologo,1,0.1652892561983471
+Istruttore Tecnico Direttivo - Comune,1,0.1652892561983471
+P.H.D.,1,0.1652892561983471
+Revisore Dei Conti,1,0.1652892561983471
+Imprenditore Del Settore Tessile,1,0.1652892561983471
+Commercialista E Revisore Dei Conti,1,0.1652892561983471
+Parlamentare; Già Consigliere Regionale Del Piemonte; Già Consigliere Comunale Città Di Venaria Reale,1,0.1652892561983471
+Sottosegretario Al Ministero Della Transizione Ecologica (Dal 01/03/2021),1,0.1652892561983471
+Responsabile Marketing E Comunicazione,1,0.1652892561983471
+Presidente Di +Europa,1,0.1652892561983471
+Già Segretario Radicali Italiani,1,0.1652892561983471
+Già Procuratore Nazionale Antimafia E Antiterrorismo,1,0.1652892561983471
+Pensionato,1,0.1652892561983471
+Master Interuniversitario Di Ii Livello In Organizzazione E Funzionamento Della Pubblica Amministrazione; Psicologa Psicoterapeuta,1,0.1652892561983471
+Consulente Comunicazione E Organizzazione Culturale,1,0.1652892561983471
+Direttore Regionale Coldiretti,1,0.1652892561983471
+Consulente Del Lavoro,1,0.1652892561983471
+Diploma Di Specializzazione Per Le Professioni Legali,1,0.1652892561983471
+Professore Ordinario Di Discipline Giuridiche; Avvocato,1,0.1652892561983471
+Insegnante Di Scuola Secondaria Inferiore; Sindaco,1,0.1652892561983471
+Avvocato; Professore Di Seconda Fascia,1,0.1652892561983471
+Già Presidente Di Consiglio Comunale,1,0.1652892561983471
+Funzionario Amministrativo Contabile Del Mims,1,0.1652892561983471
+Assistente Statistica Presso La Commissione Europea,1,0.1652892561983471
+Commercialista; Consulente Aziendale,1,0.1652892561983471
+Professore Associato Di Politica Economica,1,0.1652892561983471
+Rappresentante Di Commercio,1,0.1652892561983471
+Agente In Attività Finanziaria,1,0.1652892561983471
+Avvocato Civilista; Cassazionista; Amministratore Giudiziario,1,0.1652892561983471
+Professore Ordinario Di Patologia Clinica,1,0.1652892561983471
+Vice Presidente Regione Emilia Romagna,1,0.1652892561983471
+Ingegnere Elettronico;,1,0.1652892561983471
+Diploma Accademico In Pianoforte; Avvocato,1,0.1652892561983471
+Consigliere Comunale,1,0.1652892561983471
+Attivista Sociale E Sindacale; Scrittore,1,0.1652892561983471
+Già Parlamentare Europea,1,0.1652892561983471
+Amministratrice Regionale,1,0.1652892561983471
+Professore Associato Di Storia Delle Migrazioni E Delle Catastrofi,1,0.1652892561983471
+Giornalista Professionista In Aspettativa,1,0.1652892561983471
+Consulente Manageriale,1,0.1652892561983471
+Vicesindaco Del Comune Di Grosseto,1,0.1652892561983471
+Avvocato. Senior Associate.,1,0.1652892561983471
+Alimentari E Forestali,1,0.1652892561983471
+Funzionario Del Ministero Delle Politiche Agricole,1,0.1652892561983471
+Funzionario Settore Formazione E Politiche Del Lavoro Regione Liguria,1,0.1652892561983471
+Impiegata,1,0.1652892561983471
+Manager Del Settore Artistico,1,0.1652892561983471
+Insegnante In Pensione,1,0.1652892561983471
+"""Imprenditore Nel Settore Dell'Illuminotecnica""",1,0.1652892561983471
+Scrittore,1,0.1652892561983471
+Attore,1,0.1652892561983471
+Funzionario Pubblico,1,0.1652892561983471
+"""Avvocato Specializzato In Diritto Dell'Ue.""",1,0.1652892561983471
+"""Agente Scelto Della Polizia Di Stato; Già Assessore All'Ambiente Del Comune Di Caivano""",1,0.1652892561983471
+Videomaker,1,0.1652892561983471
+Documentarista,1,0.1652892561983471
+"""Avvocato Civilista E Penalista",1,0.1652892561983471
+Assessore All'Urbanistica,1,0.1652892561983471
+Direttrice Delle Pubbliche Relazioni,1,0.1652892561983471
+Responsabile Relazioni Istituzionali,1,0.1652892561983471
+"Già Assessore Del Comune Di Siena""",1,0.1652892561983471
+Dirigente Nazionale Di Fratelli D'Italia,1,0.1652892561983471
+"""Avvocato",1,0.1652892561983471
+Editore,1,0.1652892561983471
+Responsabile Di Segreteria Consiglio Regionale Toscana,1,0.1652892561983471
+Coltivatore Diretto,1,0.1652892561983471
+Già Sindaco Comune Di Campi Bisenzio,1,0.1652892561983471
+Attività Economiche Del Comune Di Firenze,1,0.1652892561983471
+Società Partecipate,1,0.1652892561983471
+Assessore Al Bilancio,1,0.1652892561983471
+Già Presidente Di Circoscrizione Nel Comune Di Firenze,1,0.1652892561983471
+Imprenditore Immobiliare,1,0.1652892561983471
+Segretaria Regionale Pd Lombardia,1,0.1652892561983471
+"Società Partecipate""",1,0.1652892561983471
+Sport,1,0.1652892561983471
+Insegnante Di Scuola Secondaria Superiore; Informatico,1,0.1652892561983471
+Magistrato Di Cassazione,1,0.1652892561983471
+Laurea In Politiche Europee E Internazionali; Giornalista Pubblicista,1,0.1652892561983471
+Sovrintendente Di Pubblica Sicurezza,1,0.1652892561983471
+Impiegata Amministrativa,1,0.1652892561983471
+Architetto E Consulente Sistemi Informativi Territoriali,1,0.1652892561983471
+Giornalista Parlamentare,1,0.1652892561983471
+Funzionario Pubblica Amministrazione,1,0.1652892561983471
+Lavoratore Autonomo,1,0.1652892561983471
+Studentessa,1,0.1652892561983471
+Dipendente Di Partito O Gruppo Politico,1,0.1652892561983471
+Procuratore Aggiunto Della Repubblica,1,0.1652892561983471
+Quadro Umana S.P.A.; Presidente Vetreria Salviati Srl; Past-President Sezione Vetro Confindustria Venezia-Rovigo; Consigliere Di Amministrazione Scuola Grande Della Misericordia,1,0.1652892561983471
+Tributario,1,0.1652892561983471
+Previdenziale,1,0.1652892561983471
+Avvocato Con Esperienza Nei Seguenti Campi: Lavoro,1,0.1652892561983471
+Medico Dello Sport,1,0.1652892561983471
+Operaio Comunità Montana,1,0.1652892561983471
+Consulente In Materia Economica E Finanziaria Per Il Gruppo Parlamentare Fdi,1,0.1652892561983471
+Gastroenterologo,1,0.1652892561983471
+Consulente Della Formazione,1,0.1652892561983471
+Amministratore Locale,1,0.1652892561983471
+Già Ct Della Nazionale Italiana Maschile Di Pallavolo,1,0.1652892561983471
+Commercialista E Revisiore Dei Conti,1,0.1652892561983471
+Avvocato Lavorista,1,0.1652892561983471
+Dipendente Di Azienda Bancaria,1,0.1652892561983471
+Avvocato Penalista.,1,0.1652892561983471
+Ex Militare Presso La Folgore,1,0.1652892561983471
+Presidente Società 5T,1,0.1652892561983471
+Sindaco Di Coniolo,1,0.1652892561983471
+Capo Di Gabinetto Della Città Di Casale Monferrato,1,0.1652892561983471
+Portavoce,1,0.1652892561983471
+Già Sindaca Di Torino,1,0.1652892561983471
+Laurea In Discipline Musicali; Manager,1,0.1652892561983471
+Imprenditore Del Settore Turistico,1,0.1652892561983471
+Dirigente Sanitario,1,0.1652892561983471
+"""Avvocato Giurista D'Impresa""",1,0.1652892561983471
+Consulente Senior Per La Comunicazione,1,0.1652892561983471
+Collaboratore,1,0.1652892561983471
+Funzionario Di Partito,1,0.1652892561983471
+Imprenditore Del Settore Impiantistico,1,0.1652892561983471
+ufficiale riserva selezionata e.i.,1,0.1652892561983471
+Avvocata,1,0.1652892561983471
+"dottore commercialista e revisore dei conti""",1,0.1652892561983471
+"""Professore di economia aziendale presso il dipartimento di scienze dell'economia di unisalento",1,0.1652892561983471
+Consulente automobilistico,1,0.1652892561983471
+Critica letteraria e scrittrice,1,0.1652892561983471
+scrittrice,1,0.1652892561983471
+Critica letteraria,1,0.1652892561983471
+Tecnico della ricerca università di torino,1,0.1652892561983471
+Quadro direttivo bancario,1,0.1652892561983471
+Biologa,1,0.1652892561983471
+Casalinga,1,0.1652892561983471
+Impiegato pubblico,1,0.1652892561983471
+Operatrice socio sanitaria,1,0.1652892561983471
+Operatore socio sanitario,1,0.1652892561983471
+Infermiere,1,0.1652892561983471
+Docente di discipline economico-aziendali e marketing (scuola secondaria di ii grado),1,0.1652892561983471
+Dirigente bancario,1,0.1652892561983471
+sindacalista o esponente di associazione,1,0.1652892561983471
+Amministratore di società,1,0.1652892561983471
+Consulente legale,1,0.1652892561983471
+antiriciclaggio e tutela del consumatore,1,0.1652892561983471
+specializzata in normativa privacy,1,0.1652892561983471
+specializzata in recruiting e formazione,1,0.1652892561983471
+Industriale,1,0.1652892561983471
+Funzionario consiglio regionale piemonte,1,0.1652892561983471
+insegnante,1,0.1652892561983471
+dirigente,1,0.1652892561983471
+Pubblicista,1,0.1652892561983471
+Agente o rappresentante,1,0.1652892561983471
+Consulente sui finanziamenti europei - docente a contratto informatica aziendale,1,0.1652892561983471
+Dirigente azienda,1,0.1652892561983471
+Professionista dello sport,1,0.1652892561983471
+Commerciante,1,0.1652892561983471
+Avvocato penalista,1,0.1652892561983471
+giornalista pubblicista,1,0.1652892561983471
+Immobiliarista,1,0.1652892561983471
+Insegnante di liceo,1,0.1652892561983471
+"""Amministratore d'azienda""",1,0.1652892561983471
+"""Incaricato giuridico d'impresa""",1,0.1652892561983471
+"""Storico dell'arte",1,0.1652892561983471
+"avvocato (diritto commerciale-amministrativo)""",1,0.1652892561983471
+"""Docente universitario (professore associato) di diritto pubblico comparato presso la facoltà di economia dell'università di bologna",1,0.1652892561983471
+professore universitario,1,0.1652892561983471
+Professore in economia delle amministrazioni pubbliche,1,0.1652892561983471
+Agente generali ass.,1,0.1652892561983471
+"""Storico dell'arte - direttore coordinatore""",1,0.1652892561983471
+"dirigente ministero beni culturali in pensione""",1,0.1652892561983471
+Dipendente anci veneto,1,0.1652892561983471
+Bancario unicredit,1,0.1652892561983471
+dirigente di partito,1,0.1652892561983471
+Ceo e founder bauking srl,1,0.1652892561983471
+docente universitario,1,0.1652892561983471
+"""Sindaco di misano di gera d'adda (bg)""",1,0.1652892561983471
+revisore contabile,1,0.1652892561983471
+funzionario di partito,1,0.1652892561983471
+Avvocato cassazionista,1,0.1652892561983471
+Agricoltore,1,0.1652892561983471
+giornalista,1,0.1652892561983471
+Docente di lettere (scuola secondaria di ii grado),1,0.1652892561983471
+Manager,1,0.1652892561983471
+Docente,1,0.1652892561983471
+Grafico pubblicitario,1,0.1652892561983471
+ricercatore cnr,1,0.1652892561983471
+Dirigente industria,1,0.1652892561983471
+Professore ordinario di farmacologia,1,0.1652892561983471
+Scienziato,1,0.1652892561983471
+Esperto per il ministero del lavoro e delle politiche sociali,1,0.1652892561983471
+Direttore risorse umane,1,0.1652892561983471
+Diplomatico,1,0.1652892561983471
+università di torino,1,0.1652892561983471
+Professore di diritto costituzionale - facoltà di giurisprudenza,1,0.1652892561983471
+Dottore commercialista e revisore legale,1,0.1652892561983471
+Chirurgo dermatologo,1,0.1652892561983471
+Artigiano,1,0.1652892561983471
+Docente universitario (università degli studi di macerata),1,0.1652892561983471
+medico,1,0.1652892561983471
+Consulente in gestione dei fondi europei,1,0.1652892561983471
+Incaricato giuridico di imprese,1,0.1652892561983471
+Professore Associato,1,0.1652892561983471
+Dottoranda,1,0.1652892561983471
+Avvocato In Diritto Societario,1,0.1652892561983471
+Agente Di Assicurazione,1,0.1652892561983471
+Professione Non Rilevata,1,0.1652892561983471
+Funzionaria Agenzie Onu; Parlamentare,1,0.1652892561983471
+Sindaco Del Comune Di Bogliasco,1,0.1652892561983471
+Funzionario Amministrativo,1,0.1652892561983471
+Addetto Alle Pubbliche Relazioni,1,0.1652892561983471
+Consulente Assicurativo,1,0.1652892561983471
+"""Imprenditore Per Packaging Per L' Industria Cosmetica E Profumiera""",1,0.1652892561983471
+Avvocata.,1,0.1652892561983471
+"Vice Presidente Del Gruppo Ppe All'Assemblea Del Consiglio D'Europa""",1,0.1652892561983471
+"""Giornalista Professionista",1,0.1652892561983471
+Responsabile Amministrativo,1,0.1652892561983471
+Urbanista,1,0.1652892561983471
+Economista,1,0.1652892561983471
+Attrice Di Teatro,1,0.1652892561983471
+Ricercatrice,1,0.1652892561983471
+"""Consulente Aziendale Nell'Ambito Della Sostenibilità Ambientale""",1,0.1652892561983471
+Generale Di Brigata Dei Carabinieri Della Riserva,1,0.1652892561983471
+Funzionario Consorzio Di Bonifica Sardegna Meridionale,1,0.1652892561983471
+"""Già Sindaco Di Casalgrande; Già Sottosegretario Alla Presidenza Giunta Regionale Dell'Emilia Romagna""",1,0.1652892561983471
+Avvocato Civilista E Amministrativista,1,0.1652892561983471
+"""Avvocata Penalista Ed Esperta In Diritto Dell'Immigrazione""",1,0.1652892561983471
+Regista Teatrale,1,0.1652892561983471
+Insegnante Di Musica,1,0.1652892561983471
+Avvocato Patrocinante Presso Le Magistrature Superiori,1,0.1652892561983471
+Imprenditore Agricolo Non A Titolo Principale,1,0.1652892561983471
+Commercialista.,1,0.1652892561983471
+Dirigente Di Azienda,1,0.1652892561983471
+Educatrice,1,0.1652892561983471
+Addetto Stampa,1,0.1652892561983471
+Assessore Comunale; Assessore Regionale,1,0.1652892561983471
+Manager Aziendale,1,0.1652892561983471
+Giurista,1,0.1652892561983471
+Architetto Edile,1,0.1652892561983471
+Professoressa Ordinaria Di Scienza Delle Finanze,1,0.1652892561983471
+Docente Di Discipline Giuridiche Ed Economiche,1,0.1652892561983471
+Medico chirurgo maxillo - facciale,1,0.1652892561983471
+"""Appartenente alle forze dell'ordine e di sicurezza""",1,0.1652892561983471
+Professore ordinario,1,0.1652892561983471
+Avvocato e mediatore civile,1,0.1652892561983471
+Magistrato,1,0.1652892561983471
+Dirigente regione siciliana,1,0.1652892561983471
+"""Professore d'orchestra""",1,0.1652892561983471
+Artista o professionista dello spettacolo,1,0.1652892561983471
+Geologo,1,0.1652892561983471
+Ordinario di politica economica,1,0.1652892561983471
+Professore informatica scuola superiore,1,0.1652892561983471
+Professoressa universitaria,1,0.1652892561983471
+Medico epidemiologo e del lavoro,1,0.1652892561983471
+psicodrammatista per le aree psicosociali e pedagogiche,1,0.1652892561983471
+linguista ricercatrice,1,0.1652892561983471
+formatrice di pdl,1,0.1652892561983471
+Titolare di scuola di lingue e formazione,1,0.1652892561983471
+Imprenditore agricolo/turistico,1,0.1652892561983471
+Ufficiale c.m. cri,1,0.1652892561983471
+Dirigente pubblico,1,0.1652892561983471
+consulente,1,0.1652892561983471
+Medico chirurgo maxillo-facciale,1,0.1652892561983471
+Collaboratore amministrativo,1,0.1652892561983471
+avvocato,1,0.1652892561983471
+funzionario polizia di stato in pensione,1,0.1652892561983471
+Professore ordinario di filosofia della scienza - università di pisa,1,0.1652892561983471
+Ricercatrice e docente universitaria,1,0.1652892561983471
+Libero professionista - subagente assicurativo,1,0.1652892561983471
+Energy manager università del salento,1,0.1652892561983471
+Dipendente pubblico,1,0.1652892561983471
+"""Direttore d'azienda""",1,0.1652892561983471
+Assistente amministrativo,1,0.1652892561983471
+Dirigente medico ospedaliero,1,0.1652892561983471
+Imprenditore ambito arredamento,1,0.1652892561983471
+Segretario comunale,1,0.1652892561983471
+imprenditore,1,0.1652892561983471
+Agente,1,0.1652892561983471
+Agente di assicurazione,1,0.1652892561983471
+Consulente del lavoro,1,0.1652892561983471
+Già Dirigente Di Azienda Privata,1,0.1652892561983471

@@ -1,0 +1,102 @@
+The current composition of the Italian Parliament is:
+- Camera dei Deputati: 400 members
+- Senato della Repubblica: 200 members + 6 life senators (There are currently 5 senatori a vita)
+
+
+------Senato - SPARQL
+PREFIX osr: <http://dati.senato.it/osr/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?senatore ?nome ?cognome ?genere ?cittaNascita ?provinciaNascita ?nazioneNascita ?dataNascita 
+                ?cittaResidenza ?provinciaResidenza ?nazioneResidenza ?Professione ?inizioMandato 
+                ?legislatura ?tipoMandato
+WHERE {
+    ?senatore a osr:Senatore.
+    ?senatore foaf:firstName ?nome.
+    ?senatore foaf:lastName ?cognome.
+    ?senatore foaf:gender ?genere.
+    ?senatore osr:cittaNascita ?cittaNascita.
+    OPTIONAL { ?senatore osr:provinciaNascita ?provinciaNascita. }
+    ?senatore osr:nazioneNascita ?nazioneNascita.
+    ?senatore osr:dataNascita ?dataNascita.
+    OPTIONAL { ?senatore osr:cittaResidenza ?cittaResidenza. }
+    OPTIONAL { ?senatore osr:provinciaResidenza ?provinciaResidenza. }
+    OPTIONAL { ?senatore osr:nazioneResidenza ?nazioneResidenza. }
+
+    ?senatore osr:mandato ?mandato.
+    ?mandato osr:legislatura ?legislatura.
+    ?mandato osr:inizio ?inizioMandato.
+    ?mandato osr:tipoMandato ?tipoMandato.
+    OPTIONAL { ?mandato osr:fine ?df. }
+    FILTER(?legislatura = 19)
+    FILTER(!bound(?df))
+
+    OPTIONAL {
+        ?senatore osr:professione ?professione.
+        ?professione rdfs:label ?Professione.
+    }
+}
+ORDER BY ?cognome ?nome
+
+
+------Camera - SPARQL
+PREFIX ocd: <http://dati.camera.it/ocd/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT DISTINCT ?persona ?cognome ?nome ?dataNascita ?nato ?luogoNascita ?genere
+                ?collegio ?nomeGruppo ?sigla ?commissione ?aggiornamento ?descrizione
+WHERE {
+  ?persona ocd:rif_mandatoCamera ?mandato;
+           a foaf:Person.
+
+  ## deputato
+  ?d a ocd:deputato;
+     ocd:aderisce ?aderisce;
+     ocd:rif_leg <http://dati.camera.it/ocd/legislatura.rdf/repubblica_19>;
+     ocd:rif_mandatoCamera ?mandato.
+
+  ## anagrafica
+  ?d foaf:surname ?cognome;
+     foaf:gender ?genere;
+     foaf:firstName ?nome.
+
+  OPTIONAL {
+    ?persona <http://purl.org/vocab/bio/0.1/Birth> ?nascita.
+    ?nascita <http://purl.org/vocab/bio/0.1/date> ?dataNascita;
+             rdfs:label ?nato;
+             ocd:rif_luogo ?luogoNascitaUri.
+    ?luogoNascitaUri dc:title ?luogoNascita.
+  }
+
+  ## aggiornamento del sistema
+  OPTIONAL { ?d <http://lod.xdams.org/ontologies/ods/modified> ?aggiornamento. }
+
+  ## mandato
+  ?mandato ocd:rif_elezione ?elezione.
+  MINUS { ?mandato ocd:endDate ?fineMandato. }
+
+  ## elezione
+  ?elezione dc:coverage ?collegio.
+
+  ## adesione a gruppo
+  OPTIONAL {
+    ?aderisce ocd:rif_gruppoParlamentare ?gruppo.
+    ?gruppo dc:alternative ?sigla;
+            dc:title ?nomeGruppo.
+  }
+  MINUS { ?aderisce ocd:endDate ?fineAdesione. }
+
+  ## organo
+  OPTIONAL {
+    ?d ocd:membro ?membro.
+    ?membro ocd:rif_organo ?organo.
+    ?organo dc:title ?commissione.
+  }
+  MINUS { ?membro ocd:endDate ?fineMembership. }
+
+  ## descrizione
+  OPTIONAL { ?d dc:description ?descrizione. }
+}

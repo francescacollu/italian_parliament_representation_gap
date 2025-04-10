@@ -1,0 +1,606 @@
+id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studio,tipo_mandato,professione
+1103,Maurizio,Gasparri,M,1956-07-18,Roma,Roma,,elettivo,['Giornalista']
+1116,Antonino,Germana',M,1976-04-12,Messina,Messina,,elettivo,['Dirigente']
+1227,Antonio,Guidi,M,1945-06-13,Roma,Roma,,elettivo,"['Medico', 'Medico chirurgo']"
+1275,Ignazio,La Russa,M,1947-07-18,Paterno',Catania,,elettivo,"['Avvocato', 'Avvocato cassazionista']"
+1407,Lucio,Malan,M,1960-07-30,Luserna San Giovanni,Torino,,elettivo,"['Insegnante', 'Insegnante, funzionario di partito']"
+1558,Roberto,Menia,M,1961-12-03,Pieve Di Cadore,Belluno,,elettivo,['Giornalista']
+17542,Alberto,Balboni,M,1959-06-19,Ferrara,Ferrara,,elettivo,['Avvocato']
+17811,Pierantonio,Zanettin,M,1961-07-13,Vicenza,Vicenza,,elettivo,"['Avvocato', 'Avvocato, revisore contabile']"
+17924,Andrea,Martella,M,1968-08-27,Portogruaro,Venezia,,elettivo,['Consulente']
+18055,Alberto,Losacco,M,1970-07-01,Brindisi,Brindisi,,elettivo,['Avvocato']
+18121,Daniela,Garnero Santanche',F,1961-04-07,Cuneo,Cuneo,,elettivo,['Imprenditore']
+18562,Daisy,Pirovano,F,1977-12-19,Romano Di Lombardia,Bergamo,,elettivo,"['Amministratore locale', 'Sindaco', ""Sindaco di misano di gera d'adda (bg)""]"
+22263,Francesco Paolo,Sisto,M,1955-04-27,Bari,Bari,,elettivo,"['Avvocato', 'Avvocato, docente universitario']"
+22814,Antonio,De Poli,M,1960-10-04,Vicenza,Vicenza,,elettivo,['Impiegato']
+22871,Michaela,Biancofiore,F,1970-12-28,Bolzano,Bolzano,,elettivo,"['Imprenditore', 'Imprenditrice', 'Ceo e founder bauking srl']"
+22877,Giulia,Bongiorno,F,1966-03-22,Palermo,Palermo,,elettivo,['Avvocato']
+22910,Giulia,Cosenza,F,1968-01-25,Napoli,Napoli,,elettivo,['Dirigente']
+22914,Stefania Gabriella Anastasia,Craxi,F,1960-10-25,Milano,Milano,,elettivo,['Altra professione intellettuale o scientifica']
+22918,Peppe,De Cristofaro,M,1971-06-26,Napoli,Napoli,,elettivo,"['Impiegato', 'Funzionario di partito']"
+22963,Massimo,Garavaglia,M,1968-04-08,Cuggiono,Milano,,elettivo,"['Consulente aziendale', 'Consulente']"
+22966,Mariastella,Gelmini,F,1973-07-01,Leno,Brescia,,elettivo,['Avvocato']
+23011,Antonio,Misiani,M,1968-09-04,Bergamo,Bergamo,,elettivo,['Consulente']
+24016,Sandra,Zampa,F,1956-05-16,Mercato Saraceno,Forli'-Cesena,,elettivo,['Giornalista']
+2444,Adolfo,Urso,M,1957-07-12,Padova,Padova,,elettivo,['Giornalista']
+25377,Walter,Verini,M,1956-01-17,Citta' Di Castello,Perugia,,elettivo,"['Giornalista', 'Giornalista, dirigente di partito']"
+25402,Daniela,Sbrollini,F,1971-09-30,Latiano,Brindisi,,elettivo,"['Impiegato', 'Dipendente anci veneto']"
+25407,Matteo,Salvini,M,1973-03-09,Milano,Milano,,elettivo,['Giornalista']
+25411,Anna,Rossomando,F,1963-06-30,Torino,Torino,,elettivo,['Avvocato']
+25429,Giovanna,Petrenga,F,1956-07-06,Casal Di Principe,Caserta,,elettivo,"['Dirigente', ""Storico dell'arte, dirigente ministero beni culturali in pensione"", ""Storico dell'arte - direttore coordinatore""]"
+25446,Gaetano,Nastri,M,1968-03-18,Boscoreale,Napoli,,elettivo,"['Assicuratore', 'Agente generali ass.']"
+25474,Beatrice,Lorenzin,F,1971-10-14,Roma,Roma,,elettivo,"['Dirigente', 'Impiegato']"
+25555,Francesco,Boccia,M,1968-03-18,Bisceglie,Barletta-Andria-Trani,,elettivo,"['Docente universitario', 'Professore in economia delle amministrazioni pubbliche']"
+25558,Anna Maria,Bernini,F,1965-08-17,Bologna,Bologna,,elettivo,"['Docente universitario', 'Avvocato, professore universitario', ""Docente universitario (professore associato) di diritto pubblico comparato presso la facoltà di economia dell'università di bologna, avvocato (diritto commerciale-amministrativo)""]"
+27622,Filippo,Sensi,M,1968-03-04,Roma,Roma,,elettivo,['Giornalista']
+28306,Nello,Musumeci,M,1955-01-21,Militello In Val Di Catania,Catania,,elettivo,"['Bancario', 'Agricoltore', 'Bancario unicredit, giornalista']"
+28543,Mario,Monti,M,1943-03-19,Varese,Varese,,"a vita, di nomina del Presidente della Repubblica","['Docente universitario', 'Professore universitario']"
+28550,Giuliomaria,Terzi Di Sant'Agata,M,1946-06-09,Bergamo,Bergamo,,elettivo,['Diplomatico']
+28670,Graziano,Delrio,M,1960-04-27,Reggio Nell'Emilia,Reggio nell'Emilia,,elettivo,"['Ricercatore', 'Ricercatore, medico']"
+28924,Francesco,Verducci,M,1972-10-05,Fermo,Fermo,,elettivo,"['Docente universitario', 'Docente universitario (università degli studi di macerata)']"
+29067,Gian Marco,Centinaio,M,1971-10-31,Pavia,Pavia,,elettivo,"['Dirigente', 'Direttore commerciale']"
+29105,Francesco,Giacobbe,M,1958-07-10,Catania,Catania,,elettivo,"['Docente universitario', 'Commercialista']"
+29132,Bruno,Marton,M,1969-09-28,Varedo,Monza e Brianza,,elettivo,['Artigiano']
+29138,Franco,Mirabelli,M,1960-02-09,Milano,Milano,,elettivo,"['Funzionario', 'Funzionario di partito']"
+29185,Erika,Stefani,F,1971-07-18,Valdagno,Vicenza,,elettivo,['Avvocato']
+29270,Lorenzo,Basso,M,1976-02-19,Genova,Genova,,elettivo,['Imprenditore']
+29273,Alfredo,Bazoli,M,1969-12-15,Brescia,Brescia,,elettivo,['Avvocato']
+29291,Mario Alejandro,Borghese,M,1981-04-14,CORDOBA,,,elettivo,"['Medico', 'Docente universitario', 'Chirurgo dermatologo']"
+29292,Stefano,Borghesi,M,1977-09-16,Brescia,Brescia,,elettivo,"['Commercialista', 'Dottore commercialista, revisore legale', 'Dottore commercialista e revisore legale']"
+29293,Enrico,Borghi,M,1967-08-06,Premosello-Chiovenda,Verbano Cusio Ossola,,elettivo,['Dirigente']
+29406,Silvia,Fregolent,F,1972-01-25,Torino,Torino,,elettivo,['Avvocato']
+29425,Andrea,Giorgis,M,1965-04-12,Torino,Torino,,elettivo,"['Docente universitario', 'Professore universitario', 'Professore di diritto costituzionale - facoltà di giurisprudenza, università di torino']"
+29447,Francesca,La Marca,F,1975-10-30,TORONTO,,,elettivo,['Docente universitario']
+29467,Simona Flavia,Malpezzi,F,1972-08-22,Cernusco Sul Naviglio,Milano,,elettivo,['Insegnante']
+29480,Roberto,Marti,M,1974-06-11,Lecce,Lecce,,elettivo,['Imprenditore']
+29490,Marco,Meloni,M,1971-06-16,Quartu Sant'Elena,Cagliari,,elettivo,['Avvocato']
+29521,Dario,Parrini,M,1973-10-17,Vinci,Firenze,,elettivo,['Impiegato']
+29573,Ivan,Scalfarotto,M,1965-08-16,Pescara,Pescara,,elettivo,['Direttore risorse umane']
+29604,Valeria,Valente,F,1976-09-16,Napoli,Napoli,,elettivo,['Avvocato']
+30110,Carlo,Calenda,M,1973-04-09,Roma,Roma,,elettivo,"['Amministratore o manager', 'Manager']"
+30294,Michele,Fina,M,1978-09-30,Avezzano,L'Aquila,,elettivo,"['Altro', 'Esperto per il ministero del lavoro e delle politiche sociali']"
+30510,Carlo,Rubbia,M,1934-03-31,Gorizia,Gorizia,,"a vita, di nomina del Presidente della Repubblica","['Ricercatore', 'Scienziato']"
+30511,Elena,Cattaneo,F,1962-10-22,Milano,Milano,,"a vita, di nomina del Presidente della Repubblica","['Docente universitario', 'Professore ordinario di farmacologia']"
+30512,Renzo,Piano,M,1937-09-14,Genova,Genova,,"a vita, di nomina del Presidente della Repubblica",['Architetto']
+30742,Matteo,Renzi,M,1975-01-11,Firenze,Firenze,,elettivo,"['Dirigente', ""Dirigente d'azienda""]"
+30915,Paolo,Tosato,M,1972-09-08,Negrar,Verona,,elettivo,[nan]
+31010,Bartolomeo,Amidei,M,1961-05-23,Rovigo,Rovigo,,elettivo,['Imprenditore']
+31725,Annamaria,Furlan,F,1958-04-24,Genova,Genova,,elettivo,"['Sindacalista', 'Sindacalista o esponente di associazione']"
+31875,Cecilia,D'Elia,F,1963-07-31,Potenza,Potenza,,elettivo,['Consulente']
+32,Maria Elisabetta,Alberti Casellati,F,1946-08-12,Rovigo,Rovigo,,elettivo,['Avvocato']
+32435,Liliana,Segre,F,1930-09-10,Milano,Milano,,"a vita, di nomina del Presidente della Repubblica","['Imprenditore', 'Imprenditrice']"
+32578,Alessandro,Alfieri,M,1972-02-02,Varese,Varese,,elettivo,"['Libero professionista', 'Altra professione intellettuale o scientifica']"
+32583,Alberto,Barachini,M,1972-08-21,Pisa,Pisa,,elettivo,['Giornalista']
+32586,Giorgio Maria,Bergesio,M,1963-11-22,Bra,Cuneo,,elettivo,"['Dirigente industria', 'Dirigente']"
+32590,Lucia,Borgonzoni,F,1976-09-18,Bologna,Bologna,,elettivo,['Amministratore locale']
+32598,Maria Cristina,Cantu',F,1964-12-21,Varese,Varese,,elettivo,['Dirigente']
+32600,Maria Domenica,Castellone,F,1975-04-03,Villaricca,Napoli,,elettivo,"['Ricercatore', 'Medico, ricercatore cnr']"
+32603,Luca,Ciriani,M,1967-01-26,Pordenone,Pordenone,,elettivo,['Impiegato']
+32608,Marco,Croatti,M,1972-09-17,Rimini,Rimini,,elettivo,"['Altra professione intellettuale o scientifica', 'Grafico pubblicitario']"
+32619,Gabriella,Di Girolamo,F,1977-05-15,Sulmona,L'Aquila,,elettivo,"['Imprenditore', 'Imprenditrice']"
+32624,Meinhard,Durnwalder,M,1976-12-12,Brunico,Bolzano,,elettivo,['Avvocato']
+32628,Giovanbattista,Fazzolari,M,1972-02-24,Messina,Messina,,elettivo,"['Libero professionista', 'Consulente']"
+32634,Barbara,Floridia,F,1977-02-05,Messina,Messina,,elettivo,"['Insegnante', 'Docente', 'Docente di lettere (scuola secondaria di ii grado)']"
+32637,Adriano,Galliani,M,1944-07-30,Monza,Monza e Brianza,,elettivo,"['Amministratore o manager', ""Amministratore d'azienda"", 'Amministratore di società']"
+32640,Felicia,Gaudiano,F,1966-01-09,Albanella,Salerno,,elettivo,"['Commercialista', 'Commercialista, docente', 'Insegnante', 'Insegnante di liceo', 'Docente di discipline economico-aziendali e marketing (scuola secondaria di ii grado)']"
+32644,Barbara,Guidolin,F,1975-09-21,Bassano Del Grappa,Vicenza,,elettivo,"['Infermiere', 'Operatore socio sanitario', 'Operatrice socio sanitaria']"
+32645,Antonio,Iannone,M,1975-09-18,Torre Del Greco,Napoli,,elettivo,['Imprenditore']
+32650,Patrizio Giacomo,La Pietra,M,1961-04-10,Pistoia,Pistoia,,elettivo,['Imprenditore']
+32653,Ettore Antonio,Licheri,M,1963-10-11,Sassari,Sassari,,elettivo,['Avvocato']
+32655,Pietro,Lorefice,M,1967-07-18,Gela,Caltanissetta,,elettivo,"['Tecnico', 'Impiegato pubblico']"
+32658,Alessandra,Maiorino,F,1974-07-24,Roma,Roma,,elettivo,['Insegnante']
+32660,Daniele,Manca,M,1969-05-16,Imola,Bologna,,elettivo,"['Impiegato', 'Funzionario']"
+32673,Gisella,Naturale,F,1969-06-03,San Giovanni Rotondo,Foggia,,elettivo,"['Insegnante', 'Casalinga']"
+32677,Andrea,Ostellari,M,1974-03-17,Campo San Martino,Padova,,elettivo,['Avvocato']
+32681,Stefano,Patuanelli,M,1974-06-08,Trieste,Trieste,,elettivo,"['Ingegnere', 'Ingegnere, libero professionista']"
+32691,Elisa,Pirro,F,1973-07-15,Torino,Torino,,elettivo,"['Tecnico', 'Biologa', 'Tecnico della ricerca università di torino']"
+32697,Stefania,Pucciarelli,F,1967-03-06,Sarzana,La Spezia,,elettivo,['Amministratore locale']
+32699,Isabella,Rauti,F,1962-11-17,Roma,Roma,,elettivo,"['Giornalista professionista', 'Giornalista', 'Giornalista professionista, docente, ufficiale riserva selezionata e.i.']"
+32703,Tatjana,Rojc,F,1961-10-26,Trieste,Trieste,,elettivo,"['Altra professione intellettuale o scientifica', 'Critica letteraria, scrittrice', 'Critica letteraria e scrittrice, libero professionista']"
+32706,Massimiliano,Romeo,M,1971-01-22,Monza,Monza e Brianza,,elettivo,"['Consulente', 'Consulente automobilistico']"
+32707,Licia,Ronzulli,F,1975-09-14,Milano,Milano,,elettivo,['Dirigente']
+32721,Elena,Testor,F,1973-07-20,Cavalese,Trento,,elettivo,"['Imprenditore', 'Imprenditrice']"
+32726,Mario,Turco,M,1968-06-14,Taranto,Taranto,,elettivo,"['Docente universitario', 'Professore universitario', ""Professore di economia aziendale presso il dipartimento di scienze dell'economia di unisalento, dottore commercialista e revisore dei conti""]"
+32727,Julia,Unterberger,F,1962-09-05,Merano,Bolzano,,elettivo,"['Avvocato', 'Avvocata']"
+32732,Francesco,Zaffini,M,1955-03-09,Spoleto,Perugia,,elettivo,"['Dirigente', 'Dirigente bancario', 'Quadro direttivo bancario, sindacalista o esponente di associazione']"
+32747,Dario,Damiani,M,1974-06-21,Barletta,Barletta-Andria-Trani,,elettivo,"['Impiegato', 'Bancario']"
+32779,Roberto,Rosso,M,1967-08-16,TORINO,Torino,,elettivo,"['Agente o rappresentante', 'Immobiliarista, giornalista pubblicista']"
+32851,Anna,Bilotti,F,1982-06-15,BATTIPAGLIA,Salerno,,elettivo,"['Avvocato', 'Avvocato penalista']"
+32856,Carmela,Bucalo,F,1963-06-27,Barcellona Pozzo Di Gotto,Messina,,elettivo,['Dirigente']
+32862,Gianluca,Cantalamessa,M,1968-02-02,Napoli,Napoli,,elettivo,['Assicuratore']
+32898,Luca,De Carlo,M,1972-08-07,Pieve Di Cadore,Belluno,,elettivo,['Commerciante']
+32988,Alessandro,Morelli,M,1977-05-09,VIZZOLO PREDABISSI,Milano,,elettivo,['Giornalista']
+33005,Raffaella,Paita,F,1974-11-23,LA SPEZIA,La Spezia,,elettivo,['Giornalista']
+33022,Manfredi,Potenti,M,1976-07-21,Cecina,Livorno,,elettivo,['Avvocato']
+33027,Giusy,Versace,F,1977-05-20,Reggio Di Calabria,Reggio di Calabria,,elettivo,"['Libero professionista', 'Professionista dello sport']"
+33038,Paolo,Zangrillo,M,1961-12-03,Genova,Genova,,elettivo,"[""Dirigente d'azienda"", 'Amministratore o manager']"
+33065,Roberto,Cataldi,M,1960-04-15,Ascoli Piceno,Ascoli Piceno,,elettivo,['Avvocato']
+33070,Claudio,Borghi,M,1970-06-06,Milano,Milano,,elettivo,['Giornalista']
+33096,Claudio,Durigon,M,1971-09-10,Latina,Latina,,elettivo,"['Dirigente azienda', 'Altro']"
+33110,Elena,Murelli,F,1975-07-29,Piacenza,Piacenza,,elettivo,"['Consulente', 'Consulente sui finanziamenti europei - docente a contratto informatica aziendale']"
+33137,Marco,Silvestroni,M,1962-11-08,Roma,Roma,,elettivo,['Pubblicista']
+33863,Marco,Scurria,M,1967-05-18,Roma,Roma,,elettivo,['Consulente']
+33946,Gianpietro,Maffoni,M,1951-11-02,Orzinuovi,Brescia,,elettivo,['Imprenditore']
+34243,Andrea,Paganella,M,1974-12-03,Roncoferraro,Mantova,,elettivo,['Imprenditore']
+34485,Nicola,Calandrini,M,1966-11-05,Latina,Latina,,elettivo,"['Commercialista', 'Consulente legale, revisore legale']"
+34558,Lavinia,Mennuni,F,1976-04-17,Southampton,,,elettivo,['Avvocato']
+35489,Cinzia,Pellegrino,F,1975-07-17,Poggiardo,Lecce,,elettivo,['Consulente']
+36013,Tilde,Minasi,F,1960-07-24,Reggio Di Calabria,Reggio di Calabria,,elettivo,['Avvocato']
+36381,Vincenza,Aloisio,F,1946-12-15,Muro Lucano,Potenza,,elettivo,"['Medico', 'Medico, dirigente, insegnante']"
+36382,Paola,Ambrogio,F,1970-12-02,Torino,Torino,,elettivo,"['Amministratore locale', 'Funzionario pubblico', 'Funzionario consiglio regionale piemonte']"
+36383,Renato,Ancorotti,M,1956-03-19,Crema,Cremona,,elettivo,"['Imprenditore', 'Industriale']"
+36384,Gianni,Berrino,M,1964-05-07,San Remo,Imperia,,elettivo,['Avvocato']
+36385,Dolores,Bevilacqua,F,1974-08-27,Partinico,Palermo,,elettivo,"['Giornalista', 'Giornalista, specializzata in recruiting e formazione, specializzata in normativa privacy, antiriciclaggio e tutela del consumatore']"
+36386,Mara,Bizzotto,F,1972-06-03,Bassano Del Grappa,Vicenza,,elettivo,[nan]
+36387,Andrea,Crisanti,M,1954-09-14,Roma,Roma,,elettivo,['Docente universitario']
+36388,Guido,Castelli,M,1965-11-30,Siena,Siena,,elettivo,['Avvocato']
+36390,Ilaria,Cucchi,F,1974-06-22,Roma,Roma,,elettivo,"['Libero professionista', 'Consulente']"
+36391,Concetta,Damante,F,1972-02-05,Gela,Caltanissetta,,elettivo,"['Consulente', 'Altra professione intellettuale o scientifica', 'Consulente in gestione dei fondi europei']"
+36392,Susanna Lina Giulia,Camusso,F,1955-08-14,Milano,Milano,,elettivo,"['Sindacalista', 'Sindacalista o esponente di associazione']"
+36393,Andrea,De Priamo,M,1971-05-24,Roma,Roma,,elettivo,"['Avvocato', ""Incaricato giuridico d'impresa"", 'Incaricato giuridico di imprese']"
+36394,Raffaele,De Rosa,M,1978-06-20,Pompei,Napoli,,elettivo,"[""Appartenente alle forze dell'ordine e di sicurezza"", 'Ufficiale c.m. cri']"
+36395,Costanzo,Della Porta,M,1975-10-29,Termoli,Campobasso,,elettivo,['Avvocato']
+36396,Marco,Dreosto,M,1969-03-18,Spilimbergo,Pordenone,,elettivo,"['Direttore commerciale', 'Altro']"
+36397,Marta,Farolfi,F,1962-01-01,Brisighella,Ravenna,,elettivo,['Amministratore locale']
+36398,Anna Maria,Fallucchi,F,1968-05-19,Foggia,Foggia,,elettivo,"['Imprenditore', 'Imprenditore agricolo/turistico']"
+36399,Aurora,Floridia,F,1967-05-06,Verona,Verona,,elettivo,"['Altra professione intellettuale o scientifica', 'Titolare di scuola di lingue e formazione, formatrice di pdl, linguista ricercatrice, psicodrammatista per le aree psicosociali e pedagogiche']"
+36400,Silvio,Franceschelli,M,1970-08-16,Pistoia,Pistoia,,elettivo,['Avvocato']
+36401,Nicola,Irto,M,1982-01-05,Reggio di Calabria,Reggio di Calabria,,elettivo,"['Dirigente', 'Architetto']"
+36402,Elena,Leonardi,F,1975-05-03,Recanati,Macerata,,elettivo,['Amministratore locale']
+36403,Guido Quintino,Liris,M,1979-06-12,L'Aquila,L'Aquila,,elettivo,"['Medico', 'Medico epidemiologo e del lavoro']"
+36404,Ada,Lopreiato,F,1971-09-06,Napoli,Napoli,,elettivo,['Avvocato']
+36405,Claudio,Lotito,M,1957-05-09,Roma,Roma,,elettivo,['Imprenditore']
+36406,Orfeo,Mazzella,M,1965-09-30,Cercola,Napoli,,elettivo,"['Medico', 'Odontoiatra', 'Odontoiatra, libero professionista']"
+36407,Filippo,Melchiorre,M,1966-05-07,Bari,Bari,,elettivo,"['Funzionario pubblico', 'Altro']"
+36408,Ester,Mieli,F,1976-04-22,Roma,Roma,,elettivo,['Giornalista']
+36409,Dafne,Musolino,F,1974-12-04,Messina,Messina,,elettivo,['Avvocato']
+36410,Luigi,Nave,M,1970-05-13,Villaricca,Napoli,,elettivo,"['Insegnante', 'Professore informatica scuola superiore']"
+36411,Antonio,Nicita,M,1968-02-10,Siracusa,Siracusa,,elettivo,"['Docente universitario', 'Professore ordinario', 'Ordinario di politica economica']"
+36412,Vita Maria,Nocco,F,1974-12-12,Santeramo in Colle,Bari,,elettivo,['Imprenditore']
+36413,Mario,Occhiuto,M,1964-01-06,Cosenza,Cosenza,,elettivo,['Architetto']
+36414,Fausto,Orsomarso,M,1971-08-18,Cosenza,Cosenza,,elettivo,"['Imprenditore', 'Amministratore o manager']"
+36415,Pietro,Patton,M,1957-12-28,Trento,Trento,,elettivo,['Dirigente']
+36416,Simona,Petrucci,F,1971-04-17,Grosseto,Grosseto,,elettivo,"['Geologo', 'Altra professione intellettuale o scientifica']"
+36417,Luca,Pirondini,M,1981-06-08,Genova,Genova,,elettivo,"['Artista o professionista dello spettacolo', ""Professore d'orchestra""]"
+36418,Vincenza,Rando,F,1958-06-09,Niscemi,Caltanissetta,,elettivo,['Avvocato']
+36419,Ernesto,Rapani,M,1967-05-02,Rossano,Cosenza,,elettivo,['Architetto']
+36420,Gianni,Rosa,M,1965-03-27,Potenza,Potenza,,elettivo,['Commercialista']
+36421,Raoul,Russo,M,1971-03-03,Palermo,Palermo,,elettivo,"['Imprenditore', 'Dirigente regione siciliana']"
+36422,Salvatore,Sallemi,M,1977-01-31,Vittoria,Ragusa,,elettivo,['Avvocato']
+36423,Roberto Maria Ferdinando,Scarpinato,M,1952-01-14,Caltanissetta,Caltanissetta,,elettivo,['Magistrato']
+36424,Etelwardo,Sigismondi,M,1974-09-29,Vasto,Chieti,,elettivo,['Architetto']
+36425,Elena,Sironi,F,1961-02-18,Milano,Milano,,elettivo,"['Avvocato', 'Avvocato e mediatore civile']"
+36426,Luigi,Spagnolli,M,1960-02-10,Bolzano,Bolzano,,elettivo,"['Dirigente', 'Dirigente pubblico']"
+36427,Nicoletta,Spelgatti,F,1971-07-28,Aosta,Aosta,,elettivo,['Avvocato']
+36428,Raffaele,Speranzon,M,1971-10-07,Venezia,Venezia,,elettivo,"[""Dirigente d'azienda"", 'Amministratore o manager']"
+36429,Ylenia,Zambito,F,1974-06-27,Pisa,Pisa,,elettivo,"['Docente universitario', 'Professoressa universitaria']"
+36430,Antonella,Zedda,F,1976-01-17,Cagliari,Cagliari,,elettivo,"['Assicuratore', 'Assicuratore, consulente']"
+36431,Michele,Barcaiuolo,M,1979-02-07,MODENA,Modena,,elettivo,['Avvocato']
+36432,Susanna Donatella,Campione,F,1966-02-03,Tripoli,,,elettivo,['Avvocato']
+36433,Matteo,Gelmetti,M,1975-06-12,VERONA,Verona,,elettivo,['Consulente']
+36434,Sabrina,Licheri,F,1971-06-04,ASSEMINI,Cagliari,,elettivo,"['Consulente aziendale', 'Consulente', 'Assistente amministrativo']"
+36435,Marco,Lisei,M,1977-03-15,BOLOGNA,Bologna,,elettivo,['Avvocato']
+36436,Marco,Lombardo,M,1981-01-02,LOCRI,Reggio di Calabria,,elettivo,['Docente universitario']
+36437,Tino,Magni,M,1947-06-29,BARZAGO,Lecco,,elettivo,['Sindacalista o esponente di associazione']
+36438,Paola,Mancini,F,1973-11-04,ASOLA,Mantova,,elettivo,"['Consulente', 'Consulente del lavoro']"
+36439,Paolo,Marcheschi,M,1961-03-23,FIRENZE,Firenze,,elettivo,"['Agente di assicurazione', 'Assicuratore', 'Agente, imprenditore']"
+36440,Domenico,Matera,M,1965-05-19,BENEVENTO,Benevento,,elettivo,"['Amministratore locale', 'Segretario comunale']"
+36441,Salvo,Pogliese,M,1972-03-03,CATANIA,Catania,,elettivo,"['Dottore commercialista', 'Commercialista']"
+36442,Sergio,Rastrelli,M,1966-01-17,NAPOLI,Napoli,,elettivo,['Avvocato']
+36443,Giorgio,Salvitti,M,1968-02-10,COLLEFERRO,Roma,,elettivo,"['Imprenditore', 'Imprenditore ambito arredamento']"
+36444,Giovanni,Satta,M,1965-01-22,ROMA,Roma,,elettivo,"['Medico', 'Medico chirurgo', 'Dirigente medico ospedaliero']"
+36445,Francesco,Silvestro,M,1971-10-22,ARZANO,Napoli,,elettivo,['Imprenditore']
+36446,Sandro,Sisler,M,1968-04-12,BOLLATE,Milano,,elettivo,"['Dirigente', ""Direttore d'azienda""]"
+36447,Domenica,Spinelli,F,1969-01-08,SAMMICHELE DI BARI,Bari,,elettivo,"['Imprenditore', 'Collaboratore amministrativo']"
+36448,Antonio Salvatore,Trevisi,M,1976-01-26,COPERTINO,Lecce,,elettivo,"['Dipendente pubblico', 'Energy manager università del salento']"
+36449,Francesca,Tubetti,F,1982-08-06,MONFALCONE,Gorizia,,elettivo,"['Libero professionista', 'Assicuratore', 'Libero professionista - subagente assicurativo']"
+36450,Ignazio,Zullo,M,1959-08-20,CASSANO DELLE MURGE,Bari,,elettivo,"['Medico', 'Medico chirurgo']"
+37415,Daniela,Ternullo,F,1975-05-09,Siracusa,Siracusa,,elettivo,['Imprenditore']
+37739,Cristina,Tajani,F,1978-11-28,Terlizzi,Bari,,elettivo,"['Docente universitario', 'Ricercatrice e docente universitaria']"
+3900,Marcello,Pera,M,1943-01-28,Lucca,Lucca,,elettivo,"['Docente universitario', 'Professore ordinario di filosofia della scienza - università di pisa']"
+407,Alessio,Butti,M,1964-10-15,Como,Como,,elettivo,['Consulente']
+4192,Claudio,Fazzone,M,1961-10-07,Fondi,Latina,,elettivo,"['Avvocato', 'Imprenditore', 'Imprenditore, funzionario polizia di stato in pensione, avvocato']"
+422,Roberto,Calderoli,M,1956-04-18,Bergamo,Bergamo,,elettivo,"['Medico', 'Medico chirurgo maxillo-facciale', 'Medico chirurgo maxillo - facciale']"
+4512,Adriano,Paroli,M,1962-03-30,Brescia,Brescia,,elettivo,['Avvocato']
+520,Pier Ferdinando,Casini,M,1955-12-03,Bologna,Bologna,,elettivo,['Dirigente']
+5799,Dario,Franceschini,M,1958-10-19,Ferrara,Ferrara,,elettivo,['Avvocato']
+p200291,Riccardo,De Corato,M,1951-11-01,Andria,Bari,Diploma Di Istituto Tecnico Commerciale,elettivo,['Dipendente Pubblico']
+p300299,Andrea Giorgio Felice Maria,Orsini,M,1959-09-23,Milano,Milano,Diploma Di Liceo Classico,elettivo,['Dirigente']
+p300319,Edmondo,Cirielli,M,1964-05-22,Nocera Inferiore,Salerno,"Laurea In Giurisprudenza, Laurea In Scienze Politiche, Laurea In Scienze Della Sicurezza Interna Ed Esterna",elettivo,['Generale Di Brigata Dei Carabinieri Della Riserva']
+p300369,Francesco Saverio,Romano,M,1964-12-24,Palermo,Palermo,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p300444,Maurizio,Leo,M,1955-07-25,Roma,Roma,Laurea In Giurisprudenza,elettivo,"['Docente Universitario, Avvocato Tributarista']"
+p300447,Maurizio Enzo,Lupi,M,1959-10-03,Milano,Milano,Laurea In Scienze Politiche,elettivo,['Dirigente Di Azienda Privata']
+p300469,Luana,Zanella,F,1950-10-04,Venezia,Venezia,"Laurea In Scienze Politiche, Specializzazione In Diritto Del Lavoro E Della Sicurezza Sociale",elettivo,['Docente Di Discipline Giuridiche Ed Economiche']
+p300480,Roberto,Giachetti,M,1961-04-24,Roma,Roma,Diploma Di Liceo Scientifico,elettivo,['Giornalista Professionista']
+p300497,Paolo,Barelli,M,1954-06-07,Roma,Roma,Diploma Di Liceo Scientifico,elettivo,['Imprenditore']
+p300674,Ettore,Rosato,M,1968-07-28,Trieste,Trieste,Diploma Di Istituto Tecnico Commerciale,elettivo,['Dipendente Di Azienda Privata']
+p301436,Fabio,Rampelli,M,1960-08-02,Roma,Roma,Laurea In Architettura,elettivo,['Architetto']
+p301439,Lorenzo,Cesa,M,1951-08-16,Arcinazzo Romano,Roma,Laurea In Scienze Politiche,elettivo,['Parlamentare']
+p301457,Paola,Frassinetti,F,1956-05-02,Genova,Genova,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p301459,Laura,Ravetto,F,1971-01-25,Cuneo,Cuneo,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p301531,Maria Rosaria,Carfagna,F,1975-12-18,Salerno,Salerno,Laurea In Giurisprudenza,elettivo,[None]
+p301541,Enrico,Costa,M,1969-11-29,Cuneo,Cuneo,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p301558,Elisabetta,Gardini,F,1956-06-03,Padova,Padova,"Diploma Di Liceo Classico, Diploma Alla Bottega Teatrale Di Firenze Di Vittorio Gassman",elettivo,['Attrice Di Teatro']
+p301577,Benedetto,Della Vedova,M,1962-04-03,Sondrio,Sondrio,Ricercatore,elettivo,['Economista']
+p302069,Arturo,Scotto,M,1978-05-15,Torre Del Greco,Napoli,Laurea In Scienze Politiche,elettivo,['Dirigente Di Partito']
+p302080,Angelo,Bonelli,M,1962-07-30,Roma,Roma,Diploma Di Istituto Tecnico Per Geometri,elettivo,[None]
+p302103,Giorgia,Meloni,F,1977-01-15,Roma,Roma,,elettivo,[None]
+p302422,Giovanni,Cuperlo,M,1961-09-03,Trieste,Trieste,"Laurea In Discipline Dell'Arte, Della Musica E Dello Spettacolo",elettivo,['Funzionario']
+p302746,Vinicio Giuseppe Guido,Peluffo,M,1971-03-21,Rho,Milano,Laurea In Scienze Giuridiche,elettivo,['Dirigente Di Partito']
+p302748,Eugenia Maria,Roccella,F,1953-11-15,Bologna,Bologna,"Laurea In Lettere, Dottorato Di Ricerca",elettivo,['Giornalista']
+p302754,Chiara,Braga,F,1979-09-02,Como,Como,"Laurea In Pianificazione Territoriale, Urbanistica Ed Ambientale",elettivo,['Urbanista']
+p302762,Nicola,Molteni,M,1976-03-06,Cantu',Como,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p302764,Silvana Andreina,Comaroli,F,1967-03-27,Soncino,Cremona,Laurea In Economia E Commercio,elettivo,['Responsabile Amministrativo']
+p302789,Maria Anna,Madia,F,1980-09-05,Roma,Roma,"Laurea In Scienze Politiche, Dottorato Di Ricerca In Economia",elettivo,['Parlamentare']
+p302794,Roberto,Morassut,M,1963-11-16,Roma,Roma,Laurea In Lettere Moderne,elettivo,['Dirigente Di Partito']
+p302818,Stefano,Graziano,M,1971-09-13,Aversa,Caserta,Laurea In Ingegneria Civile E Ambientale,elettivo,['Ingegnere']
+p302824,Massimo,Bitonci,M,1965-06-24,Padova,Padova,Laurea In Economia E Commercio,elettivo,"['Dottore Commercialista, Revisore Contabile']"
+p302838,Michela Vittoria,Brambilla,F,1967-10-26,Lecco,Lecco,,elettivo,[None]
+p302856,Paola,De Micheli,F,1973-09-01,Piacenza,Piacenza,Laurea In Scienze Politiche,elettivo,"['Imprenditore Agricolo, Dipendente Di Azienda Privata']"
+p302867,Deborah,Bergamini,F,1967-10-24,Viareggio,Lucca,Laurea In Lingue E Letterature Straniere,elettivo,"[""Giornalista Professionista, Vice Presidente Del Gruppo Ppe All'Assemblea Del Consiglio D'Europa""]"
+p302902,Fabio,Porta,M,1963-11-05,Caltagirone,Catania,Sociologo,elettivo,[None]
+p302913,Antonino,Minardo,M,1978-02-05,Modica,Ragusa,Laurea In Scienze Politiche,elettivo,['Dirigente Di Azienda Privata']
+p302942,Antonio,Angelucci,M,1944-09-16,Sante Marie,L'Aquila,Licenza Media,elettivo,['Imprenditore']
+p302968,Catia,Polidori,F,1967-07-03,Citta' Di Castello,Perugia,"Laurea In Economia Bancaria, Dottorato Di Ricerca In Scienze Della Formazione",elettivo,"['Imprenditore, Professore Universitario']"
+p302980,Elena,Maccanti,F,1971-02-05,Torino,Torino,Giornalista Professionista,elettivo,[None]
+p303089,Gilberto,Pichetto Fratin,M,1954-01-04,Veglio,Biella,Laurea In Economia E Commercio,elettivo,['Dottore Commercialista']
+p304521,Edoardo,Rixi,M,1974-06-08,Genova,Genova,Laurea In Economia E Commercio,elettivo,[None]
+p305549,Simona,Bonafe',F,1973-07-12,Varese,Varese,Laurea In Scienze Politiche,elettivo,[None]
+p305553,Maria Chiara,Gadda,F,1980-02-06,Tradate,Varese,Laurea In Ingegneria Gestionale,elettivo,['Dipendente Di Azienda Privata']
+p305580,Renate,Gebhard,F,1977-05-02,Bolzano/Bozen,Bolzano/Bozen,Laurea In Giurisprudenza,elettivo,['Avvocata.']
+p305586,Manfred,Schullian,M,1962-03-09,Bolzano/Bozen,Bolzano/Bozen,Laurea In Giurisprudenza,elettivo,['Avvocato Amministrativista']
+p305624,Lorenzo,Guerini,M,1966-11-21,Lodi,Lodi,Laurea In Scienze Politiche,elettivo,['Consulente Assicurativo']
+p305688,Walter,Rizzetto,M,1975-06-27,San Vito Al Tagliamento,Pordenone,Diploma Di Liceo Classico,elettivo,[None]
+p305698,Andrea,De Maria,M,1966-10-05,Bazzano,Bologna,Diploma Di Liceo Scientifico,elettivo,['Dirigente Di Partito']
+p305704,Anna,Ascani,F,1987-10-17,Citta' Di Castello,Perugia,"Laurea In Filosofia Teoretica, Morale, Politica Ed Estetica",elettivo,['Dottoranda']
+p305708,Matteo,Richetti,M,1974-08-03,Sassuolo,Modena,Diploma Di Liceo Scientifico,elettivo,['Addetto Alle Pubbliche Relazioni']
+p305733,Luca,Pastorino,M,1971-09-30,Genova,Genova,Laurea In Economia Aziendale,elettivo,"['Funzionario Amministrativo, Sindaco Del Comune Di Bogliasco']"
+p305757,Laura,Boldrini,F,1961-04-28,Macerata,Macerata,Laurea In Giurisprudenza,elettivo,['Funzionaria Agenzie Onu; Parlamentare']
+p305771,Irene,Manzi,F,1977-08-16,Macerata,Macerata,"Laurea In Giurisprudenza, Corsi E Scritti Di Specializzazione E Approfondimenti",elettivo,['Dipendente Pubblico']
+p305815,Matteo,Orfini,M,1974-08-30,Roma,Roma,Diploma Di Liceo Classico,elettivo,['Parlamentare']
+p305880,Nicola,Fratoianni,M,1972-10-04,Pisa,Pisa,Laurea In Lettere E Filosofia,elettivo,[None]
+p305931,Vincenzo,Amendola,M,1973-12-22,Napoli,Napoli,,elettivo,[None]
+p305974,Roberto,Speranza,M,1979-01-04,Potenza,Potenza,"Laurea In Scienze Politiche, Dottorato Di Ricerca In Storia.",elettivo,[None]
+p306003,Francesco,Bonifazi,M,1976-06-24,Firenze,Firenze,"Laurea In Giurisprudenza, Master In Diritto Tributario",elettivo,['Avvocato Tributarista']
+p306005,Davide,Faraone,M,1975-07-19,Palermo,Palermo,Laurea In Scienze Politiche,elettivo,['Professione Non Rilevata']
+p306008,Chiara,Gribaudo,F,1981-05-16,Cuneo,Cuneo,Educatrice E Parlamentare,elettivo,[None]
+p306064,Giulio Cesare,Sottanelli,M,1970-04-10,Arbon,Svizzera,Laurea In Scienze Della Comunicazione E Dell'Amministrazione,elettivo,['Agente Di Assicurazione']
+p306139,Nicola,Stumpo,M,1969-08-20,Catanzaro,Catanzaro,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Funzionario Di Partito']
+p306158,Giuseppe,Castiglione,M,1963-10-05,Bronte,Catania,Diploma Di Liceo Classico,elettivo,['Giornalista']
+p306160,Maria Elena,Boschi,F,1981-01-24,Montevarchi,Arezzo,"Laurea In Giurisprudenza, Master In Diritto Societario",elettivo,['Avvocato In Diritto Societario']
+p306176,Matteo,Mauri,M,1970-05-24,Milano,Milano,Laurea In Scienze Politiche,elettivo,['Dirigente Di Partito']
+p306189,Lia,Quartapelle Procopio,F,1982-08-15,Varese,Varese,Dottorato Di Ricerca In Economia,elettivo,['Ricercatrice']
+p306214,Luca,Squeri,M,1961-12-18,Milano,Milano,Laurea In Scienze Giuridiche,elettivo,['Imprenditore']
+p306349,Stefano,Candiani,M,1971-12-11,Busto Arsizio,Varese,Diploma Di Liceo Scientifico,elettivo,"[""Imprenditore Per Packaging Per L' Industria Cosmetica E Profumiera""]"
+p306352,Enrico,Cappelletti,M,1968-02-05,Padova,Padova,Laurea In Scienze Politiche,elettivo,"[""Consulente Aziendale Nell'Ambito Della Sostenibilità Ambientale""]"
+p306379,Isabella,De Monte,F,1971-06-23,Udine,Udine,Laurea In Giurisprudenza,elettivo,['Dipendente Pubblico']
+p306382,Mauro,Del Barba,M,1970-07-20,Morbegno,Sondrio,Laurea In Scienze Dell'Informazione,elettivo,[None]
+p306395,Rosanna,Filippin,F,1962-02-08,Bassano Del Grappa,Vicenza,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p306398,Federico,Fornaro,M,1962-12-09,Genova,Genova,Laurea In Scienze Politiche,elettivo,['Dirigente Di Azienda']
+p306412,Maria Cecilia,Guerra,F,1957-12-06,Nonantola,Modena,Dottorato Di Ricerca In Economia Politica,elettivo,['Professoressa Ordinaria Di Scienza Delle Finanze']
+p306417,Bachisio Silvio,Lai,M,1966-07-20,Sassari,Sassari,Dottorato Di Ricerca,elettivo,['Dirigente Di Azienda Privata']
+p306497,Stefano,Vaccari,M,1967-04-10,Modena,Modena,Diploma Di Istituto Tecnico Industriale,elettivo,['Dirigente Di Azienda Privata']
+p306521,Filiberto,Zaratti,M,1956-03-26,Roma,Roma,Laurea In Scienze Politiche,elettivo,['Consulente Aziendale']
+p307130,Giorgio,Mule',M,1968-04-25,Caltanissetta,Caltanissetta,Laurea In Scienze Della Comunicazione,elettivo,['Giornalista Professionista']
+p307132,Roberto,Traversi,M,1969-12-01,Milano,Milano,Laurea In Architettura,elettivo,"['Architetto, Giornalista Pubblicista, Architetto Edile']"
+p307134,Roberto,Bagnasco,M,1950-04-07,Novi Ligure,Alessandria,"Laurea In Farmacia, Master In Bioetica",elettivo,['Farmacista']
+p307138,Vannia,Gava,F,1974-06-30,Sacile,Pordenone,Parlamentare,elettivo,[None]
+p307142,Riccardo,Zucconi,M,1956-09-26,Camaiore,Lucca,Diploma Di Liceo Scientifico,elettivo,['Imprenditore']
+p307143,Edoardo,Ziello,M,1992-04-11,Civitavecchia,Roma,Laurea In Giurisprudenza,elettivo,['Giurista']
+p307151,Simone,Billi,M,1976-02-11,Firenze,Firenze,Laurea In Ingegneria Industriale,elettivo,['Manager Aziendale']
+p307161,Nicola,Care',M,1960-07-31,Guardavalle,Catanzaro,Imprenditore,elettivo,[None]
+p307162,Salvatore,Caiata,M,1970-07-29,Potenza,Potenza,Laurea In Scienze Dell'Economia,elettivo,['Imprenditore']
+p307173,Giorgia,Latini,F,1980-04-18,Fabriano,Ancona,Laurea In Giurisprudenza,elettivo,"['Assessore Comunale; Assessore Regionale, Avvocato']"
+p307175,Rachele,Silvestri,F,1986-08-30,Ascoli Piceno,Ascoli Piceno,Diploma Di Istituto Tecnico Industriale,elettivo,['Impiegato']
+p307185,Marta Antonia,Fascina,F,1990-01-09,Melito Di Porto Salvo,Reggio Di Calabria,Laurea In Lettere E Filosofia,elettivo,['Addetto Stampa']
+p307193,Raffaele,Bruno,M,1974-05-03,Napoli,Napoli,"Autore E Regista Teatrale, Biologo",elettivo,[None]
+p307202,Gilda,Sportiello,F,1987-02-19,Napoli,Napoli,Laurea In Scienze Dell'Educazione,elettivo,['Educatrice']
+p307210,Carmela,Di Lauro,F,1988-03-24,Vico Equense,Napoli,Diploma Di Liceo Scientifico,elettivo,[None]
+p307215,Ugo,Cappellacci,M,1960-11-27,Cagliari,Cagliari,Laurea In Economia E Commercio,elettivo,"['Docente Universitario, Commercialista.']"
+p307219,Salvatore,Deidda,M,1976-10-07,Cagliari,Cagliari,Diploma Di Istituto Tecnico Agrario,elettivo,"['Funzionario Consorzio Di Bonifica Sardegna Meridionale, Imprenditore Agricolo Non A Titolo Principale']"
+p307223,Pietro,Pittalis,M,1958-04-30,Charleroi,Belgio,Laurea In Giurisprudenza,elettivo,['Avvocato Patrocinante Presso Le Magistrature Superiori']
+p307234,Daniela,Torto,F,1985-08-18,Chieti,Chieti,Laurea In Conservatorio (Pianoforte),elettivo,['Insegnante Di Musica']
+p307246,Giovanni,Donzelli,M,1975-11-28,Firenze,Firenze,,elettivo,[None]
+p307248,Erica,Mazzetti,F,1977-05-31,Prato,Prato,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Libero Professionista']
+p307250,Riccardo,Ricciardi,M,1982-05-08,Pietrasanta,Lucca,Laurea In Lettere,elettivo,['Regista Teatrale']
+p307285,Laura,Cavandoli,F,1971-12-15,Parma,Parma,Dottorato Di Ricerca,elettivo,['Avvocato']
+p307298,Galeazzo,Bignami,M,1975-10-25,Bologna,Bologna,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307300,Jacopo,Morrone,M,1983-01-23,Forli',Forlì-Cesena,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307302,Stefania,Ascari,F,1980-03-03,Correggio,Reggio Nell'Emilia,"Laurea In Giurisprudenza, Corsi E Scritti Di Specializzazione E Approfondimenti",elettivo,"[""Avvocata Penalista Ed Esperta In Diritto Dell'Immigrazione""]"
+p307304,Ubaldo,Pagano,M,1979-05-16,Bari,Bari,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista E Amministrativista']
+p307306,Andrea,Rossi,M,1976-10-09,Scandiano,Reggio Nell'Emilia,Diploma Di Istituto Tecnico Industriale,elettivo,"[""Già Sindaco Di Casalgrande; Già Sottosegretario Alla Presidenza Giunta Regionale Dell'Emilia Romagna""]"
+p307308,Marco,Lacarra,M,1962-08-04,Bari,Bari,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p307312,Mauro,D'Attis,M,1973-07-30,Galatina,Lecce,"Laurea In Economia Bancaria, Finanziaria E Assicurativa",elettivo,['Consulente Aziendale']
+p307328,Luigi,Marattin,M,1979-02-20,Napoli,Napoli,"Laurea In Economia Delle Amministrazioni Pubbliche E Delle Istituzioni Internazionalili, Dottorato Di Ricerca, Master",elettivo,['Professore Associato']
+p307332,Marcello,Gemmato,M,1972-12-21,Bari,Bari,"Laurea In Farmacia, Specializzazione In Farmacia Ospedaliera",elettivo,['Farmacista']
+p307334,Gianluca,Vinci,M,1980-05-28,Reggio Nell'Emilia,Reggio Nell'Emilia,Laurea In Giurisprudenza,elettivo,['Avvocato Penalista']
+p307340,Ylenja,Lucaselli,F,1976-04-22,Taranto,Taranto,Laurea In Giurisprudenza,elettivo,['Avvocato Penalista']
+p307348,Leonardo,Donno,M,1985-07-21,Galatina,Lecce,Diploma Di Istituto Tecnico Commerciale,elettivo,['Imprenditore Del Settore Impiantistico']
+p307356,Giorgio,Lovecchio,M,1978-03-05,Foggia,Foggia,Diploma Di Ragioniere Programmatore,elettivo,['Imprenditore']
+p307360,Rossano,Sasso,M,1975-06-18,Bari,Bari,Insegnante,elettivo,[None]
+p307370,Carla,Giuliano,F,1983-04-02,San Severo,Foggia,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307374,Debora,Serracchiani,F,1970-11-10,Roma,Roma,Laurea In Giurisprudenza,elettivo,['Avvocato Lavorista']
+p307376,Massimiliano,Panizzut,M,1968-12-10,Milano,Milano,Diploma Di Istituto Tecnico Industriale,elettivo,['Collaboratore']
+p307388,Valentina,D'Orso,F,1980-07-29,Palermo,Palermo,Laurea In Giurisprudenza,elettivo,"['Diploma Di Specializzazione Per Le Professioni Legali, Avvocato']"
+p307394,Davide,Aiello,M,1985-10-31,Palermo,Palermo,Laurea Magistrale In Giurisprudenza,elettivo,['Parlamentare']
+p307400,Maria Carolina,Varchi,F,1983-10-14,Palermo,Palermo,Avvocato Penalista,elettivo,[None]
+p307402,Matilde,Siracusano,F,1985-04-26,Messina,Messina,"Laurea In Scienze Politiche, Master Affari Politici Italiani",elettivo,['Imprenditore']
+p307406,Angela,Raffa,F,1993-01-26,Messina,Messina,Laurea In Economia Aziendale,elettivo,[None]
+p307416,Luciano,Cantone,M,1987-05-24,Catania,Catania,Laurea Triennale In Scienze E Tecnologie Dei Trasporti,elettivo,['Dipendente Di Azienda Privata']
+p307418,Filippo,Scerra,M,1978-03-25,Catania,Catania,Laurea In Ingegneria Chimica,elettivo,['Quadro Intermedio']
+p307420,Virginio,Caparvi,M,1982-09-25,Foligno,Perugia,Laurea In Scienze E Trecnologie Informatiche,elettivo,[None]
+p307424,Federico,Mollicone,M,1970-11-23,Roma,Roma,Diploma Di Liceo Scientifico,elettivo,['Consulente Comunicazione E Organizzazione Culturale']
+p307426,Maria Teresa,Bellucci,F,1972-07-19,Roma,Roma,"Laurea In Psicologia, Specializzazione In Psicoterapia Sistemico-Relazionale E Familiare",elettivo,['Master Interuniversitario Di Ii Livello In Organizzazione E Funzionamento Della Pubblica Amministrazione; Psicologa Psicoterapeuta']
+p307430,Patrizia,Prestipino,F,1963-09-16,Roma,Roma,Laurea In Lettere Classiche,elettivo,['Insegnante Di Scuola Secondaria Superiore']
+p307435,Vittoria,Baldino,F,1988-05-28,Rossano,Cosenza,Avvocato,elettivo,[None]
+p307436,Riccardo,Magi,M,1976-08-07,Roma,Roma,Laurea In Scienze Storiche,elettivo,"['Già Segretario Radicali Italiani, Presidente Di +Europa']"
+p307447,Francesco,Silvestri,M,1981-04-08,Roma,Roma,Diploma Di Istituto Tecnico Commerciale,elettivo,[None]
+p307452,Emanuele,Prisco,M,1977-11-23,Perugia,Perugia,Laurea In Giurisprudenza,elettivo,['Funzionario']
+p307453,Riccardo Augusto,Marchetti,M,1987-05-08,Umbertide,Perugia,Laurea In Scienze Per L'Investigazione E La Sicurezza,elettivo,['Consulente']
+p307454,Raffaele,Nevi,M,1973-03-09,Narni,Terni,Laurea In Scienze Politiche,elettivo,['Imprenditore Agricolo']
+p307455,Mauro,Rotelli,M,1971-04-02,Viterbo,Viterbo,"Laurea In Economia Aziendale, Laurea In Scienze Politiche",elettivo,['Responsabile Marketing E Comunicazione']
+p307456,Alessandro,Battilocchio,M,1977-05-03,Roma,Roma,"Laurea In Giurisprudenza, Laurea In Scienze Politiche",elettivo,['Parlamentare']
+p307457,Paolo,Trancassini,M,1963-06-29,Roma,Roma,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p307459,Ilaria,Fontana,F,1984-06-26,Alatri,Frosinone,Laurea In Scienze Biologiche,elettivo,['Sottosegretario Al Ministero Della Transizione Ecologica (Dal 01/03/2021)']
+p307463,Francesco,Lollobrigida,M,1972-03-21,Tivoli,Roma,Laurea In Giurisprudenza,elettivo,[None]
+p307464,Augusta,Montaruli,F,1983-09-14,Torino,Torino,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307466,Patrizia,Marrocco,F,1977-03-21,Colonia,Germania,Dirigente Di Azienda Privata,elettivo,[None]
+p307471,Alessandro Manuel,Benvenuto,M,1986-07-23,Venaria Reale,Torino,Laurea In Scienze Politiche,elettivo,['Parlamentare; Già Consigliere Regionale Del Piemonte; Già Consigliere Comunale Città Di Venaria Reale']
+p307475,Alberto Luigi,Gusmeroli,M,1961-02-27,Varese,Varese,Laurea In Economia Indirizzo Finanza Aziendale E Credito,elettivo,['Commercialista E Revisore Dei Conti']
+p307478,Daniela,Ruffino,F,1959-02-07,Torino,Torino,Diploma Di Istituto Tecnico Femminile,elettivo,['Parlamentare']
+p307479,Andrea,Delmastro Delle Vedove,M,1976-10-22,Gattinara,Vercelli,Laurea In Giurisprudenza,elettivo,['Avvocato Penalista']
+p307481,Claudio,Mancini,M,1969-02-22,Roma,Roma,Diploma Di Liceo Classico,elettivo,['Quadro Intermedio']
+p307496,Roberto,Pella,M,1970-03-06,Biella,Biella,Diploma Di Ragioneria,elettivo,['Imprenditore Del Settore Tessile']
+p307502,Alessandro,Giglio Vigna,M,1980-12-13,Ivrea,Torino,Diploma Di Istituto Tecnico Commerciale,elettivo,['Imprenditore']
+p307507,Riccardo,Molinari,M,1983-07-29,Alessandria,Alessandria,Laurea In Giurisprudenza,elettivo,['Libero Professionista']
+p307508,Andrea,Giaccone,M,1976-10-08,Savigliano,Cuneo,"Laurea In Architettura, Corsi E Scritti Di Specializzazione E Approfondimenti",elettivo,['Architetto']
+p307511,Monica,Ciaburro,F,1970-04-12,Cuneo,Cuneo,Diploma Accademico Didattica Della Musica,elettivo,['Insegnante Di Scuola Secondaria Inferiore; Sindaco']
+p307531,Michele,Gubitosa,M,1979-12-21,Atripalda,Avellino,,elettivo,[None]
+p307561,Piero,De Luca,M,1980-06-11,Cava De' Tirreni,Salerno,Dottorato Di Ricerca In Diritto Ed Economia - Diplome D'Etudes Specialisées,elettivo,['Avvocato; Professore Di Seconda Fascia']
+p307564,Anna Laura,Orrico,F,1980-12-29,Cosenza,Cosenza,Laurea In Scienze Politiche,elettivo,['Imprenditore Del Settore Dei Servizi']
+p307567,Wanda,Ferro,F,1968-03-24,Catanzaro,Catanzaro,Laurea In Lettere Moderne,elettivo,[None]
+p307568,Francesco,Cannizzaro,M,1982-06-24,Reggio Di Calabria,Reggio Di Calabria,"Laurea In Scienze Sociali Per La Cooperazione, Lo Sviluppo E La Pace",elettivo,['Imprenditore']
+p307570,Arianna,Lazzarini,F,1976-03-06,Monselice,Padova,Diploma Di Istituto Tecnico Commerciale,elettivo,['Sindaco']
+p307571,Alberto,Stefani,M,1992-11-16,Camposampiero,Padova,Laurea In Giurisprudenza,elettivo,['Consulente Legale']
+p307573,Maria Cristina,Caretta,F,1964-01-11,Thiene,Vicenza,Parlamentare,elettivo,[None]
+p307575,Ciro,Maschio,M,1971-07-23,Negrar,Verona,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307580,Piergiorgio,Cortelazzo,M,1969-02-20,Este,Padova,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Imprenditore']
+p307585,Erik Umberto,Pretto,M,1984-12-24,Schio,Vicenza,Imprenditore,elettivo,[None]
+p307591,Lorenzo,Fontana,M,1980-04-10,Verona,Verona,"Laurea In Scienze Politiche, Laurea In Storia Contemporanea, Laurea In Filosofia",elettivo,['Dipendente']
+p307601,Simona,Bordonali,F,1971-08-01,Brescia,Brescia,Perito Aziendale Corrispondente Lingue Estere,elettivo,['Libero Professionista']
+p307602,Paolo,Formentini,M,1980-04-30,Desenzano Del Garda,Brescia,Diploma Di Liceo Classico,elettivo,[None]
+p307603,Alessandro,Colucci,M,1974-05-20,Milano,Milano,Laurea In Economia Aziendale,elettivo,[None]
+p307604,Stefano,Benigni,M,1987-07-16,Alzano Lombardo,Bergamo,Diploma Di Liceo Scientifico,elettivo,['Consulente Finanziario']
+p307608,Alessandro,Sorte,M,1984-02-19,Treviglio,Bergamo,Laurea In Economia Aziendale,elettivo,[None]
+p307612,Marco,Osnato,M,1972-03-20,Belluno,Belluno,Laurea In Giurisprudenza,elettivo,['Imprenditore']
+p307616,Eugenio,Zoffili,M,1979-10-25,Erba,Como,Diploma Di Liceo Classico,elettivo,"['Consigliere Comunale, Giornalista Pubblicista']"
+p307630,Rebecca,Frassini,F,1988-11-24,Calcinate,Bergamo,Laurea In Economia,elettivo,['Dipendente Di Azienda Privata']
+p307632,Giulio,Centemero,M,1979-01-30,Milano,Milano,"Laurea In Economia E Commercio, Executive Master In Management Dell'Amministrazione Pubblica",elettivo,['Commercialista']
+p307634,Devis,Dori,M,1979-12-27,Treviglio,Bergamo,Laurea In Giurisprudenza,elettivo,['Diploma Accademico In Pianoforte; Avvocato']
+p307639,Andrea,Crippa,M,1986-05-10,Monza,Monza E Della Brianza,Laurea In Scienze Politiche,elettivo,[None]
+p307641,Igor Giancarlo,Iezzi,M,1975-01-18,Milano,Milano,Diploma Di Liceo Scientifico,elettivo,['Giornalista']
+p307657,Alessandro,Cattaneo,M,1979-06-12,Rho,Milano,Ingegnere,elettivo,['Ingegnere Elettronico;']
+p307659,Gloria,Saccani,F,1956-10-24,Reggio Nell'Emilia,Reggio Nell'Emilia,"Laurea In Medicina E Chirurgia, Specializzazione In Anatomia Patologica",elettivo,['Professore Ordinario Di Patologia Clinica']
+p307678,Cristina,Rossello,F,1961-12-24,Finale Ligure,Savona,"Laurea In Giurisprudenza, Scuola Di Formazione Per Amministratore Giudiziario",elettivo,['Avvocato Civilista; Cassazionista; Amministratore Giudiziario']
+p307680,Fabrizio,Cecchetti,M,1977-12-03,Rho,Milano,Diploma Di Liceo Scientifico,elettivo,['Imprenditore']
+p307683,Andrea,Dara,M,1979-01-07,Castel Goffredo,Mantova,,elettivo,[None]
+p307686,Giorgia,Andreuzza,F,1973-12-11,Parma,Parma,Laurea In Architettura,elettivo,['Architetto']
+p307688,Dimitri,Coin,M,1970-06-01,Treviso,Treviso,Diploma Di Istituto Tecnico Agrario,elettivo,['Imprenditore']
+p307689,Ingrid,Bisa,F,1978-01-10,Asolo,Treviso,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307716,Vanessa,Cattoi,F,1980-07-12,Rovereto,Trento,"Laurea In Economia E Commercio, Master Presso La Trento School Of Managment Come Consulente Di Impresa Tra Integrazione Dei Servizi E Telelavoro",elettivo,['Dipendente Pubblico']
+p307718,Domenico,Furgiuele,M,1983-01-01,Lamezia Terme,Catanzaro,Laurea In Scienze Dell'Educazione,elettivo,['Imprenditore Edile']
+p307726,Riccardo,Tucci,M,1986-05-08,Bad Soden Am Taunus,Germania,Diploma Di Istituto Professionale Per I Servizi Alberghieri E Ristorazione,elettivo,['Rappresentante Di Commercio']
+p307749,Alberto,Bagnai,M,1962-12-10,Firenze,Firenze,"Laurea In Economia E Commercio, Dottorato Di Ricerca In Scienze Economiche",elettivo,['Professore Associato Di Politica Economica']
+p307752,Francesco,Battistoni,M,1967-02-23,Montefiascone,Viterbo,Laurea In Scienze Politiche E Delle Relazioni Internazionali,elettivo,"['Parlamentare, Giornalista Pubblicista']"
+p307762,Francesco,Bruzzone,M,1962-05-23,Genova,Genova,Diploma Di Liceo Scientifico,elettivo,['Dipendente Pubblico']
+p307782,Luciano,D'Alfonso,M,1965-12-13,Lettomanoppello,Pescara,"Laurea In Scienze Politiche, Laurea In Filosofia, Laurea In Giurisprudenza, Laurea In Scienze Dell'Amministrazione, Dottorato Di Ricerca In Decisione Pubblica",elettivo,['Quadro Intermedio']
+p307790,Gianmauro,Dell'Olio,M,1968-03-07,Bari,Bari,"Laurea In Economia Aziendale, Executive Mba (Ross School Of Business, Michigan University)",elettivo,['Commercialista; Consulente Aziendale']
+p307803,Giorgio,Fede,M,1961-12-23,San Benedetto Del Tronto,Ascoli Piceno,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Istruttore Tecnico Direttivo - Comune']
+p307804,Emiliano,Fenu,M,1977-01-29,Siniscola,Nuoro,Laurea In Economia E Commercio,elettivo,"['Commercialista, Revisore Dei Conti']"
+p307822,Pasqua,L'Abbate,F,1966-05-02,Polignano A Mare,Bari,Professoressa Di Economia Ecologica,elettivo,['P.H.D.']
+p307826,Mauro Antonio Donato,Laus,M,1966-08-07,Lavello,Potenza,Diploma Di Istituto Tecnico Industriale,elettivo,['Imprenditore Del Settore Dei Servizi']
+p307829,Arnaldo,Lomuti,M,1975-02-14,Venosa,Potenza,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p307837,Giuseppe Tommaso Vincenzo,Mangialavori,M,1975-02-11,Merano,Bolzano,Laurea In Medicina E Chirurgia,elettivo,['Radiologo']
+p307851,Tiziana,Nisini,F,1975-10-18,Pavia,Pavia,Diploma Di Ragioneria,elettivo,['Dipendente Istituti Di Credito']
+p307857,Nazario,Pagano,M,1957-05-23,Napoli,Napoli,Laurea In Giurisprudenza,elettivo,"['Avvocato, Docente Universitario A Contratto']"
+p307863,Marco,Pellegrini,M,1964-07-30,Foggia,Foggia,Laurea In Ingegneria Civile - Edile,elettivo,"['Ingegnere, Imprenditore']"
+p307889,Massimo,Ruspandini,M,1973-06-20,Ceccano,Frosinone,,elettivo,[None]
+p307892,Agostino,Santillo,M,1974-10-28,Caserta,Caserta,Laurea In Ingegneria Civile,elettivo,['Ingegnere Edile E Idraulico']
+p307902,Dieter,Steger,M,1964-06-24,Brunico,Bolzano,Laurea In Giurisprudenza,elettivo,"[""Dirigente D'Azienda""]"
+p307903,Valeria Carmela Maria,Sudano,F,1975-09-26,Catania,Catania,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista Specializzato In Diritto Societario E Bancario']
+p307918,Andrea,De Bertoldi,M,1966-05-12,Bolzano,Bolzano,"Laurea In Economia E Commercio, Master Fisco Internazionale",elettivo,"['Commercialista, Revisore Contabile']"
+p307922,Sergio,Costa,M,1959-04-22,Napoli,Napoli,"Laurea In Scienze Agrarie, Master In Diritto Dell'Ambiente",elettivo,"[""Generale Di Corpo D'Armata, Arma Dei Carabinieri""]"
+p307926,Giuseppe,Conte,M,1964-08-08,Volturara Appula,Foggia,Laurea In Giurisprudenza,elettivo,"['Professore Universitario, Avvocato']"
+p307983,Luca,Toccalini,M,1990-05-18,Milano,Milano,Laurea In Economia E Gestione Aziendale,elettivo,['Impiegato']
+p308001,Valentina,Barzotti,F,1986-02-05,Milano,Milano,"Laurea In Giurisprudenza, Laurea In Management Of Human Resoruces And Labour Studies",elettivo,['Avvocato']
+p308101,Lucrezia Maria Benedetta,Mantovani,F,1984-05-20,Milano,Milano,Laurea In Scienze Linguistiche E Letterature Straniere,elettivo,['Imprenditrice']
+p308221,Emma,Pavanelli,F,1973-03-19,Chiavari,Genova,Parlamentare,elettivo,[None]
+p308243,Giuseppe Luciano Calogero,Provenzano,M,1982-07-23,San Cataldo,Caltanissetta,Dottorato Di Ricerca,elettivo,['Dirigente Di Istituto Di Ricerca']
+p308244,Elena,Bonetti,F,1974-04-12,Asola,Mantova,Phd In Matematica,elettivo,['Professoressa Associata Di Analisi Matematica']
+p308421,Lucia,Albano,F,1965-02-11,San Benedetto Del Tronto,Ascoli Piceno,Laurea In Economia E Commercio,elettivo,"['Dottore Commercialista, Insegnante Di Scuola Secondaria Superiore']"
+p308600,Andrea,Casu,M,1981-11-06,Roma,Roma,Laurea In Scienze Dell'Amministrazione,elettivo,[None]
+p308620,Andrea,Gentile,M,1980-06-01,Rogliano,Cosenza,Laurea In Giurisprudenza,elettivo,"['Avvocato Penalista, Docente Universitario']"
+p308760,Franco,Manes,M,1963-06-21,Aosta,Aosta,Laurea In Architettura,elettivo,"[""Architetto, Già Sindaco Del Comune Di Doues E Presidente Del Consorzio Degli Enti Locali Della Valle D'Aosta""]"
+p308761,Calogero,Pisano,M,1981-06-20,Agrigento,Agrigento,Laurea In Economia Dell'Ambiente E Della Cultura,elettivo,[None]
+p308762,Stefano Maria,Benvenuti Gostoli,M,1976-01-17,Ancona,Ancona,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308763,Mirco,Carloni,M,1981-01-14,Fano,Pesaro E Urbino,"Laurea In Scienze Giuridiche, Laurea In Giurisprudenza",elettivo,['Professore A Contratto Di Discipline Economiche; Imprenditore']
+p308764,Francesco Maria Salvatore,Ciancitto,M,1967-03-17,Catania,Catania,Laurea In Medicina E Chirurgia,elettivo,['Odontoiatra']
+p308765,Giovanni Luca,Cannata,M,1979-05-17,Siracusa,Siracusa,Master In Innovazione E Management Nella Pubblica Amministrazione,elettivo,"['Dirigente Pubblico, Dottore Commercialista, Revisore Legale Dei Conti']"
+p308766,Tommaso Antonino,Calderone,M,1963-01-30,Barcellona Pozzo Di Gotto,Messina,Laurea In Giurisprudenza,elettivo,['Avvocato Patrocinante In Cassazione']
+p308767,Francesco,Gallo,M,1966-11-03,Messina,Messina,Laurea In Giurisprudenza,elettivo,['Avvocato Patrocinante In Cassazione; Giornalista Pubblicista']
+p308768,Gianni,Lampis,M,1988-05-31,Cagliari,Cagliari,Laurea In Scienze Dei Servizi Giuridici,elettivo,['Impiegato Amministrativo Contabile']
+p308769,Barbara,Polo,F,1973-02-04,Ozieri,Sassari,Diploma Di Istituto Tecnico Commerciale,elettivo,['Amministratore Comunale']
+p308770,Dario,Giagoni,M,1979-02-15,Ozieri,Sassari,Diploma Di Istituto Tecnico Per Geometri,elettivo,"['Geometra, Professionista Abilitato']"
+p308780,Toni,Ricciardi,M,1977-12-20,Atripalda,Avellino,"Laurea In Scienze Politiche, Dottorato Di Ricerca",elettivo,['Professore Associato Di Storia Delle Migrazioni E Delle Catastrofi']
+p308781,Federica,Onori,F,1988-06-16,Albano Laziale,Roma,Dottorato Di Ricerca In Scienze Statistiche,elettivo,['Assistente Statistica Presso La Commissione Europea']
+p308782,Franco,Tirelli,M,1965-10-10,Rosario,Argentina,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p308783,Christian Diego,Di Sanzo,M,1982-11-18,Prato,Firenze,"Laurea In Ingegneria Energetica E Nucleare, Master (M.S.) In Ingegneria Meccanica, Dottorato Di Ricerca (Ph.D.) In Ingegneria Nucleare",elettivo,['Consulente Manageriale']
+p308784,Andrea,Di Giuseppe,M,1968-05-20,Roma,Roma,Diploma Di Istituto Tecnico Commerciale,elettivo,['Imprenditore Edile']
+p308785,Ilaria,Cavo,F,1973-10-11,Genova,Genova,Laurea In Scienze Politiche,elettivo,['Giornalista Professionista In Aspettativa']
+p308786,Gerolamo,Cangiano,M,1981-03-19,Genova,Genova,"Laurea In Giurisprudenza, Dottorato Di Ricerca",elettivo,['Imprenditore']
+p308787,Carmen Letizia,Giorgianni,F,1977-06-26,Sarteano,Siena,"Laurea In Filosofia, Master In ""Esperto In Cultura Di Impresa"" Conseguito Presso La Facoltà Di Economia E Commercio Di Collescipoli (Tr)",elettivo,"['Giornalista, Consulente In Materia Economica E Finanziaria Per Il Gruppo Parlamentare Fdi']"
+p308788,Francesco Maria,Rubano,M,1988-01-21,Telese,Benevento,Laurea In Giurisprudenza,elettivo,['Consulente Legale']
+p308789,Maria Immacolata,Vietri,F,1969-10-21,Salerno,Salerno,Diploma Di Liceo Scientifico,elettivo,['Libero Professionista']
+p308790,Giuseppe,Bicchielli,M,1967-03-31,Napoli,Napoli,"Laurea In Scienze Dell'Economia,Consulente Aziendale, Giornalista",elettivo,[None]
+p308791,Attilio,Pierro,M,1974-11-10,Maratea,Potenza,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Operaio Comunità Montana']
+p308792,Andrea,Pellicini,M,1970-01-28,Varese,Varese,Laurea In Giurisprudenza,elettivo,['Avvocato Penalista']
+p308793,Maurizio,Casasco,M,1954-09-07,Rivanazzano Terme,Pavia,"Laurea In Medicina E Chirurgia, Specializzazione Medicina Dello Sport",elettivo,"['Medico Dello Sport, Imprenditore']"
+p308794,Giangiacomo,Calovini,M,1982-03-16,Brescia,Brescia,Laurea In Relazioni Internazionali,elettivo,['Libero Professionista']
+p308795,Carmine Fabio,Raimondo,M,1978-11-09,Milano,Milano,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308796,Marcello,Coppo,M,1978-11-27,Asti,Asti,Laurea In Giurisprudenza,elettivo,"['Avvocato Con Esperienza Nei Seguenti Campi: Lavoro, Previdenziale, Tributario']"
+p308797,Martina,Semenzato,F,1973-07-09,Spinea,Venezia,Laurea In Scienze Politiche,elettivo,['Quadro Umana S.P.A.; Presidente Vetreria Salviati Srl; Past-President Sezione Vetro Confindustria Venezia-Rovigo; Consigliere Di Amministrazione Scuola Grande Della Misericordia']
+p308798,Carlo,Nordio,M,1947-02-06,Treviso,Treviso,Laurea In Giurisprudenza,elettivo,['Procuratore Aggiunto Della Repubblica']
+p308799,Francesco,Filini,M,1978-09-04,Roma,Roma,Laurea In Scienze Politiche E Delle Relazioni Internazionali,elettivo,['Dipendente Di Partito O Gruppo Politico']
+p308800,Marina,Marchetto,F,1951-11-17,Este,Padova,Diploma Di Scuola Magistrale,elettivo,['Imprenditore']
+p308801,Gianangelo,Bof,M,1975-01-07,Vittorio Veneto,Treviso,,elettivo,[None]
+p308802,Valentina,Grippo,F,1971-08-07,Roma,Roma,Laurea In Giurisprudenza,elettivo,['Giornalista Professionista']
+p308803,Rachele,Scarpa,F,1997-01-29,Treviso,Treviso,Laurea In Lettere Antiche,elettivo,['Studentessa']
+p308804,Augusto,Curti,M,1978-03-04,Ascoli Piceno,Ascoli Piceno,Laurea In Economia E Amministrazione Delle Imprese,elettivo,['Lavoratore Autonomo']
+p308805,Antonio,Baldelli,M,1971-06-24,Ancona,Ancona,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308806,Vito,De Palma,M,1966-11-13,Ginosa,Taranto,Laurea In Scienze Della Pubblica Amministrazione,elettivo,['Funzionario Pubblica Amministrazione']
+p308807,Andrea,Caroppo,M,1979-06-26,Poggiardo,Lecce,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308808,Salvatore Marcello,Di Mattina,M,1970-01-05,Taviano,Lecce,"Commercialista, Imprenditore Turistico",elettivo,['']
+p308809,Antonino,Iaria,M,1970-12-27,Condofuri,Reggio Di Calabria,Laurea In Architettura,elettivo,['Architetto E Consulente Sistemi Informativi Territoriali']
+p308810,Marco,Grimaldi,M,1980-11-08,Torino,Torino,,elettivo,[None]
+p308811,Giandonato,La Salandra,M,1978-09-29,Foggia,Foggia,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p308812,Marco,Perissa,M,1982-05-22,Roma,Roma,Laurea In Scienze Dell'Economia,elettivo,['']
+p308813,Immacolata,Zurzolo,F,1973-06-07,Torino,Torino,Diploma Di Ragioneria,elettivo,['Impiegata Amministrativa']
+p308814,Luigi Giovanni,Maiorano,M,1974-09-26,Manduria,Taranto,Laurea In Scienze Giuridiche,elettivo,['Sovrintendente Di Pubblica Sicurezza']
+p308815,Mauro,Berruto,M,1969-05-08,Torino,Torino,Laurea In Filosofia,elettivo,"['Consulente Della Formazione, Giornalista, Già Ct Della Nazionale Italiana Maschile Di Pallavolo']"
+p308816,Elisabetta,Piccolotti,F,1982-02-10,Camerino,Macerata,Laurea In Comunicazione Nella Società Della Globalizzazione,elettivo,['Consulente Senior Per La Comunicazione']
+p308817,Claudio Michele,Stefanazzi,M,1970-05-08,Tricase,Lecce,Laurea In Giurisprudenza,elettivo,"[""Avvocato Giurista D'Impresa""]"
+p308818,Daniela,Morfino,F,1974-05-14,Palermo,Palermo,Diploma Di Istituto Magistrale,elettivo,['Insegnante Di Scuola Primaria']
+p308819,Gianluca,Caramanna,M,1975-07-25,Florscheim,Germania,Laurea In Economia Del Turismo,elettivo,['Imprenditore Del Settore Turistico']
+p308820,Ida,Carmina,F,1963-11-16,Palermo,Palermo,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308821,Giovanna,Iacono,F,1983-06-14,Agrigento,Agrigento,Laurea In Archivistica E Biblioteconomia,elettivo,['Libero Professionista']
+p308822,Emanuele,Pozzolo,M,1985-08-25,Vercelli,Vercelli,Laurea In Giurisprudenza,elettivo,['Consulente Legale']
+p308823,Antonio,Giordano,M,1964-06-06,Napoli,Napoli,Laurea In Giurisprudenza,elettivo,"['Laurea In Discipline Musicali; Manager, Imprenditore']"
+p308824,Chiara,Appendino,F,1984-06-12,Moncalieri,Torino,"Laurea In Amministrazione, Finanza E Controllo Aziendale",elettivo,"['Dipendente Di Azienda Privata, Già Sindaca Di Torino']"
+p308825,Vincenzo,Amich,M,1977-07-26,Casale Monferrato,Alessandria,Diploma Di Istituto Tecnico Per Periti Aziendali,elettivo,"['Portavoce, Capo Di Gabinetto Della Città Di Casale Monferrato, Sindaco Di Coniolo, Presidente Società 5T, Ex Militare Presso La Folgore']"
+p308826,Fabrizio,Comba,M,1966-03-24,Torino,Torino,Laurea In Giurisprudenza,elettivo,['Imprenditore']
+p308827,Giacomo Diego,Gatta,M,1964-04-10,Manfredonia,Foggia,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p308828,Mariangela,Matera,F,1967-01-03,Andria,Bari,Laurea In Economia E Commercio,elettivo,['Commercialista']
+p308829,Rita,Dalla Chiesa,F,1947-08-31,Casoria,Napoli,Diploma Di Liceo Linguistico,elettivo,['Giornalista Professionista']
+p308830,Davide,Bellomo,M,1970-02-18,Ascoli Piceno,Ascoli Piceno,Laurea In Giurisprudenza,elettivo,['Avvocato Penalista.']
+p308831,Dario,Iaia,M,1973-11-20,Francavilla Fontana,Brindisi,Laurea In Giurisprudenza,elettivo,['Avvocato Penalista']
+p308832,Alessia,Ambrosi,F,1982-04-14,Negrar Di Valpolicella,Verona,"Diploma Di Liceo Scientifico, Master In Commercio Estero",elettivo,['Dipendente Di Azienda Bancaria']
+p308833,Saverio,Congedo,M,1965-02-15,Lecce,Lecce,Laurea In Economia E Commercio,elettivo,['Commercialista E Revisiore Dei Conti']
+p308834,Sara,Ferrari,F,1971-01-05,Rovereto,Trento,Laurea In Lettere Moderne,elettivo,['Insegnante Di Scuola Secondaria Superiore']
+p308835,Paolo,Ciani,M,1970-05-15,Roma,Roma,Laurea In Storia Dell'Arte,elettivo,['Amministratore Locale']
+p308836,Simonetta,Matone,F,1953-06-16,Roma,Roma,Laurea In Giurisprudenza,elettivo,['Magistrato Di Cassazione']
+p308837,Federico,Freni,M,1980-07-01,Roma,Roma,,elettivo,[None]
+p308838,Antonio,Tajani,M,1953-08-04,Roma,Roma,Laurea In Giurisprudenza,elettivo,['Giornalista Professionista']
+p308839,Alessandro,Palombi,M,1976-07-07,Tivoli,Roma,Laurea In Giurisprudenza,elettivo,['Avvocato Patrocinante Nelle Giurisdizioni Superiori']
+p308840,Antonio,Caso,M,1984-02-05,Napoli,Napoli,Laurea In Informatica,elettivo,['Insegnante Di Scuola Secondaria Superiore; Informatico']
+p308841,Alfonso,Colucci,M,1964-02-24,Foggia,Foggia,Notaio,elettivo,[None]
+p308843,Michela,Di Biase,F,1980-10-17,Roma,Roma,,elettivo,[None]
+p308844,Dario,Carotenuto,M,1978-02-11,Napoli,Napoli,Diploma Di Istituto Tecnico Industriale,elettivo,"['Giornalista, Documentarista, Videomaker']"
+p308845,Pasqualino,Penza,M,1986-01-16,Napoli,Napoli,Laurea In Scienze Politiche E Delle Relazioni Internazionali,elettivo,"[""Agente Scelto Della Polizia Di Stato; Già Assessore All'Ambiente Del Comune Di Caivano""]"
+p308846,Carmela,Auriemma,F,1981-07-03,Maddaloni,Caserta,"Laurea In Giurisprudenza, Master In Diritto Ambientale, Corso Di Perfezionamento Di Tutela Dei Diritti Dinnazi Alla Corte Di Giustizia Europea, Corso Di Perfezionamento In Diritto D'Impresa",elettivo,"[""Avvocato Specializzato In Diritto Dell'Ue.""]"
+p308847,Andrea,Volpi,M,1981-04-28,Roma,Roma,Laurea In Scienze Dell'Economia E Della Gestione Aziendale,elettivo,['Consulente Aziendale']
+p308848,Angelo,Rossi,M,1976-02-23,Roma,Roma,Laurea In Scienze Dell'Amministrazione,elettivo,['Funzionario Pubblico']
+p308849,Gaetano,Amato,M,1957-06-05,Castellammare Di Stabia,Napoli,Laurea In Scienze Delle Attività Motorie  E Sportive,elettivo,"['Attore, Scrittore']"
+p308850,Michele,Schiano Di Visconti,M,1962-02-26,Mugnano Di Napoli,Napoli,Laurea In Medicina E Chirurgia,elettivo,['Medico']
+p308851,Marta,Schifone,F,1980-10-09,Napoli,Napoli,"Laurea In Farmacia, Scuola Di Specializzazione Scienze E Tecniche Cosmetiche",elettivo,['Farmacista Titolare']
+p308852,Annarita,Patriarca,F,1971-07-27,Napoli,Napoli,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308853,Marianna,Ricciardi,F,1994-01-13,Napoli,Napoli,Medico,elettivo,['']
+p308854,Alessandro,Caramiello,M,1977-07-07,Napoli,Napoli,Laurea In Ingegneria Civile E Ambientale,elettivo,['Dipendente Di Azienda Privata']
+p308855,Silvio,Giovine,M,1983-12-20,Vicenza,Vicenza,Laurea In Giurisprudenza,elettivo,['']
+p308856,Marco,Sarracino,M,1989-06-21,Villaricca,Napoli,Laurea In Economia Aziendale,elettivo,[None]
+p308857,Francesco Emilio,Borrelli,M,1973-08-14,Napoli,Napoli,Giornalista Professionista,elettivo,[None]
+p308858,Susanna,Cherchi,F,1955-12-23,Iglesias,Carbonia-Iglesias,Laurea Magistrale,elettivo,['Insegnante In Pensione']
+p308859,Francesco,Mura,M,1983-09-20,Ghilarza,Oristano,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Libero Professionista']
+p308860,Gianmarco,Mazzi,M,1960-07-01,Verona,Verona,Laurea In Giurisprudenza,elettivo,['Manager Del Settore Artistico']
+p308861,Francesca,Ghirra,F,1978-07-25,Cagliari,Cagliari,Funzionario Regione Sardegna,elettivo,[None]
+p308862,Alessandro,Urzi',M,1966-05-07,Bolzano,Bolzano,Giornalista,elettivo,[None]
+p308863,Maddalena,Morgante,F,1981-06-14,Verona,Verona,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p308864,Marco,Padovani,M,1959-03-25,Verona,Verona,Diploma Di Maturità D'Arte Applicata,elettivo,['Impiegato']
+p308866,Guerino,Testa,M,1970-03-16,Pescara,Pescara,Laurea In Economia E Commercio,elettivo,['Commercialista']
+p308867,Fabio,Roscani,M,1990-06-03,Roma,Roma,Diploma Di Liceo Scientifico,elettivo,['']
+p308868,Matteo,Rosso,M,1967-06-25,Genova,Genova,Laurea In Medicina E Chirurgia,elettivo,['Odontoiatra']
+p308869,Francesco,Mari,M,1962-09-04,Salerno,Salerno,Diploma Di Istituto Magistrale,elettivo,['Insegnante Di Scuola Primaria']
+p308870,Maria Grazia,Frijia,F,1974-08-09,La Spezia,La Spezia,Diploma Di Conservatorio Pianoforte,elettivo,['Impiegata']
+p308871,Valentina,Ghio,F,1971-05-05,Sestri Levante,Genova,Laurea In Lettere Moderne,elettivo,['Funzionario Settore Formazione E Politiche Del Lavoro Regione Liguria']
+p308872,Enrica,Alifano,F,1967-01-31,Caserta,Caserta,Dottorato Di Ricerca,elettivo,['Avvocato Penalista']
+p308873,Gianpiero,Zinzi,M,1983-01-15,Caserta,Caserta,"Laurea In Giurisprudenza, Dottorato Di Ricerca In Governo Del Territorio E Tutela Dell'Ambiente",elettivo,['Avvocato']
+p308874,Marco,Cerreto,M,1971-01-01,Caserta,Caserta,Dottorato Di Ricerca In Diritto Comparato,elettivo,"['Funzionario Del Ministero Delle Politiche Agricole, Alimentari E Forestali']"
+p308875,Antonio,D'Alessio,M,1964-12-05,Salerno,Salerno,Laurea In Giurisprudenza,elettivo,['Avvocato Patrocinante In Cassazione']
+p308876,Tullio,Ferrante,M,1989-01-13,San Giorgio A Cremano,Napoli,Laurea In Giurisprudenza,elettivo,['Avvocato. Senior Associate.']
+p308877,Fabrizio,Rossi,M,1975-03-02,Montalcino,Siena,Laurea In Giurisprudenza,elettivo,"[""Avvocato Civilista E Penalista, Vicesindaco Del Comune Di Grosseto, Assessore All'Urbanistica, Sport, Società Partecipate""]"
+p308878,Elisa,Montemagni,F,1986-06-01,Viareggio,Lucca,Diploma Di Istituto Tecnico Per Geometri,elettivo,['Geometra']
+p308879,Chiara,Tenerini,F,1972-12-08,San Miniato,Pisa,Diploma Di Liceo Scientifico,elettivo,['Imprenditore Immobiliare']
+p308880,Federico,Gianassi,M,1980-05-21,Firenze,Firenze,"Laurea In Giurisprudenza, Dottorato Di Ricerca In Diritto Internazionale",elettivo,"['Avvocato, Già Presidente Di Circoscrizione Nel Comune Di Firenze, Assessore Al Bilancio, Società Partecipate, Attività Economiche Del Comune Di Firenze']"
+p308881,Emiliano,Fossi,M,1973-09-02,Firenze,Firenze,Laurea In Scienze Politiche,elettivo,['Già Sindaco Comune Di Campi Bisenzio']
+p308882,Fabrizio,Sala,M,1971-06-13,Milano,Milano,Diploma Di Istituto Tecnico Commerciale,elettivo,['Consulente Finanziario']
+p308883,Chiara,La Porta,F,1991-06-07,Prato,Prato,Diploma Di Liceo Scientifico,elettivo,['Coltivatore Diretto']
+p308884,Alessandro,Amorese,M,1974-10-08,Carrara,Massa-Carrara,Laurea In Scienze Politiche,elettivo,['Editore']
+p308885,Stefano Giovanni,Maullu,M,1962-03-15,Milano,Milano,Laurea In Scienze Politiche,elettivo,['Dirigente Di Azienda Privata']
+p308886,Lorenzo,Malagola,M,1982-11-10,Milano,Milano,Laurea Magistrale In Economia,elettivo,['Dirigente Di Azienda Privata']
+p308887,Francesco,Michelotti,M,1983-03-31,Colle Di Val D'Elsa,Siena,Laurea In Giurisprudenza,elettivo,"[""Avvocato, Dirigente Nazionale Di Fratelli D'Italia, Già Assessore Del Comune Di Siena""]"
+p308888,Grazia,Di Maggio,F,1994-11-11,Taranto,Taranto,Laurea In Linguaggi Dei Media,elettivo,['Laurea In Politiche Europee E Internazionali; Giornalista Pubblicista']
+p308889,Fabio,Pietrella,M,1977-04-11,Carbonia,Sud Sardegna,Laurea In Economia Aziendale,elettivo,['Imprenditore Del Settore Della Moda']
+p308890,Andrea,Barabotti,M,1985-09-14,Massa,Massa-Carrara,Diploma Di Istituto Tecnico Commerciale,elettivo,['Responsabile Di Segreteria Consiglio Regionale Toscana']
+p308891,Silvia,Roggiani,F,1984-04-25,Busto Arsizio,Varese,"Laurea Magistrale In Scienze Politiche E Di Governo, Mba Essential Conseguito Alla Lse",elettivo,['Segretaria Regionale Pd Lombardia']
+p308892,Marco,Furfaro,M,1980-06-19,Pistoia,Pistoia,Laurea In Economia Aziendale,elettivo,['Responsabile Relazioni Istituzionali']
+p308893,Eleonora,Evi,F,1983-11-20,Milano,Milano,"Master In Strategic Design, Laurea Magistrale In Service Design",elettivo,['Parlamentare']
+p308894,Marco,Simiani,M,1970-04-25,Pisa,Pisa,Diploma,elettivo,"[""Imprenditore Nel Settore Dell'Illuminotecnica""]"
+p308895,Giulia,Pastorella,F,1986-06-05,Milano,Milano,"Laurea In Lettere E Filosofia A Oxford, Dottorato Di Ricerca Alla London School Of Economics, Master In Politica Europea A Sciences Po E London School Of Economics",elettivo,['Direttrice Delle Pubbliche Relazioni']
+p308896,Andrea,Quartini,M,1960-03-21,Gambassi,Firenze,Laurea In Medicina E Chirurgia,elettivo,"['Dirigente Sanitario, Gastroenterologo']"
+p308897,Manlio,Messina,M,1973-11-12,Catania,Catania,Laurea In Economia E Commercio,elettivo,['Imprenditore']
+p308898,Eliana,Longi,F,1978-09-13,Catania,Catania,Laurea In Economia E Commercio Ambientale,elettivo,['Dipendente']
+p308899,Paolo Emilio,Russo,M,1977-06-06,Como,Como,Laurea In Scienze Politiche E Delle Relazioni Internazionali,elettivo,['Giornalista Parlamentare']
+p308900,Anastasio,Carra',M,1964-03-30,Motta Sant'Anastasia,Catania,Laurea In Scienze Politiche,elettivo,['Sindaco']
+p308901,Maria Stefania,Marino,F,1969-01-05,Enna,Enna,Laurea In Scienze Strategiche E Giuridiche,elettivo,['Dipendente Pubblico']
+p308902,Anthony Emanuele,Barbagallo,M,1975-12-24,Catania,Catania,Laurea In Giurisprudenza,elettivo,['Avvocato Amministrativista']
+p308903,Andrea,Mascaretti,M,1965-04-14,Milano,Milano,"Laurea In Ingegneria Aerospaziale, Laurea In Relazioni Internazionali",elettivo,"[""Imprenditore Del Marketing E Della Pubblicita'""]"
+p308904,Sara,Kelany,F,1978-06-08,Formia,Latina,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308905,Novo Umberto,Maerna,M,1956-09-06,Milano,Milano,Laurea In Ingegneria,elettivo,"[""Dirigente D'Azienda""]"
+p308906,Giovanni,Arruzzolo,M,1960-03-30,Rosarno,Reggio Di Calabria,Laurea In Scienze Politiche,elettivo,[None]
+p308907,Andrea,Tremaglia,M,1987-09-25,Bergamo,Bergamo,Laurea In Giurisprudenza,elettivo,['Amministratore Locale.']
+p308908,Luca,Sbardella,M,1973-09-26,Roma,Roma,Laurea In Scienze Politiche,elettivo,['Dipendente Pubblico; Piccolo Imprenditore Agricolo']
+p308909,Alfredo,Antoniozzi,M,1956-03-18,Cosenza,Cosenza,Laurea In Giurisprudenza,elettivo,['Libero Professionista']
+p308910,Cristina,Almici,F,1969-06-26,Brescia,Brescia,Laurea In Economia E Commercio,elettivo,['Dottore Commercilista E Revisore Dei Conti']
+p308911,Simona,Loizzo,F,1965-02-20,Cosenza,Cosenza,Laurea In Medicina E Chirurgia,elettivo,"['Primario Uoc Di Odontoiatra, Direttore Dipartimento Chirurgico Azienda Ospedaliera A.O. Di Cosenza']"
+p308912,Gian Antonio,Girelli,M,1962-09-15,Salo',Brescia,Agente Di Assicurazione,elettivo,[None]
+p308913,Fabrizio,Benzoni,M,1985-11-04,Brescia,Brescia,Laurea In Ingegneria Gestionale,elettivo,['Consulente']
+p308914,Carlo,Maccari,M,1965-05-11,Volta Mantovana,Mantova,Laurea In Farmacia,elettivo,['Farmacista Titolare']
+p308915,Paola Maria,Chiesa,F,1979-09-12,Pavia,Pavia,Laurea In Lettere Moderne,elettivo,['Insegnante Di Scuola Secondaria Superiore']
+p308916,Antonella,Forattini,F,1966-05-13,Gonzaga,Mantova,Laurea In Biologia,elettivo,['Consigliere Regionale']
+p308917,Chiara,Colosimo,F,1986-06-02,Roma,Roma,,elettivo,[None]
+p308918,Nicola,Ottaviani,M,1968-07-21,Frosinone,Frosinone,Laurea In Giurisprudenza,elettivo,"['Avvocato Penalista, Esperto Di Diritto Penale Commerciale']"
+p308920,Elisabetta Christiana,Lancellotta,F,1979-03-02,Isernia,Isernia,Laurea Magistrale In Scienze Delle Professioni Sanitarie Tecnico Ed Assistenziali,elettivo,['Libero Professionista']
+p308921,Giovanna,Miele,F,1980-07-24,Latina,Latina,Laurea In Scienze Dell'Educazione E Della Formazione,elettivo,['Dipendente Pubblico']
+p308922,Massimo,Milani,M,1967-09-24,Roma,Roma,Diploma Di Liceo Scientifico,elettivo,['Imprenditore Edile']
+p308923,Paolo,Pulciani,M,1972-02-03,Roma,Roma,Laurea In Giurisprudenza,elettivo,['Avvocato']
+p308924,Naike,Gruppioni,F,1979-01-25,Bologna,Bologna,Laurea In Economia Aziendale E Gestione Delle Imprese Internazionali,elettivo,['Imprenditrice Del Settore Metalmeccanico']
+p308925,Rosaria,Tassinari,F,1967-08-18,Forli',Forlì-Cesena,Laurea In Giurisprudenza,elettivo,"['Avvocato Civilista, Già Sindaco Del Comune Di Rocca San Casciano (Fc) Dal 2009 Al 2019, Assessore Alle Politiche Sociali, Famiglia, Pace E Diritti Umani Nel Comune Di Forlì Dal 2019']"
+p308926,Beatriz,Colombo,F,1978-03-13,Rimini,Forli',Laurea In Psicologia,elettivo,['Agente In Attività Finanziaria']
+p308927,Gaetana,Russo,F,1981-04-25,Fidenza,Parma,Laurea In Giurisprudenza,elettivo,['Funzionario Amministrativo Contabile Del Mims']
+p308928,Davide,Bergamini,M,1973-02-07,Bondeno,Ferrara,Sindaco,elettivo,[None]
+p308929,Aboubakar,Soumahoro,M,1980-06-06,Betroulilie Lakota,Costa D'Avorio,Laurea In Sociologia,elettivo,['Attivista Sociale E Sindacale; Scrittore']
+p308930,Elena Ethel,Schlein,F,1985-05-04,Lugano,Svizzera,Laurea In Giurisprudenza,elettivo,"['Già Parlamentare Europea, Amministratrice Regionale, Vice Presidente Regione Emilia Romagna']"
+p308931,Ouidad,Bakkali,F,1986-03-15,Agadir,Marocco,Laurea In Scienze Internazionali E Diplomatiche,elettivo,['Già Presidente Di Consiglio Comunale']
+p308932,Andrea,Gnassi,M,1969-03-27,Rimini,Rimini,Laurea In Scienze Politiche Indirizzo Economico,elettivo,"['Sindaco, Libero Professionista']"
+p308933,Federico,Cafiero De Raho,M,1952-02-18,Napoli,Napoli,Laurea In Giurisprudenza,elettivo,['Già Procuratore Nazionale Antimafia E Antiterrorismo']
+p308934,Ilenia,Malavasi,F,1971-10-22,Correggio,Reggio Nell'Emilia,"Laurea In Lettere Classiche, Scuola Di Specializzazione In Archeologia",elettivo,['Sindaco']
+p308935,Daniela,Dondi,F,1962-01-12,Modena,Modena,Laurea In Giurisprudenza,elettivo,['Avvocato Civilista']
+p308936,Virginio,Merola,M,1955-02-14,Santa Maria Capua Vetere,Caserta,Laurea In Filosofia,elettivo,['Pensionato']
+p308937,Alice,Buonguerrieri,F,1978-09-04,Bagno Di Romagna,Forlì-Cesena,Laurea In Giurisprudenza,elettivo,['Avvocato Patrocinante Nelle Giurisdizioni Superiori']
+p308938,Mauro,Malaguti,M,1960-03-01,Ferrara,Ferrara,Laurea In Lettere,elettivo,['Giornalista']
+p308939,Aldo,Mattia,M,1956-01-11,Frosinone,Frosinone,Diploma Di Ragioneria,elettivo,['Direttore Regionale Coldiretti']
+p308940,Emanuele,Loperfido,M,1975-11-04,Pordenone,Pordenone,Laurea In Scienze Politiche,elettivo,['Dipendente Di Azienda Privata']
+p308941,Nicole,Matteoni,F,1987-12-24,Trieste,Trieste,Laurea In Scienze Politiche E Delle Relazioni Internazionali,elettivo,['Dipendente Pubblico']
+p308942,Graziano,Pizzimenti,M,1961-05-07,Udine,Udine,Laurea In Economia E Commercio,elettivo,['Insegnante Di Scuola Secondaria Superiore']
+p309140,Antonio,Ferrara,M,1970-01-28,Varese,Varese,Bachelor Hons. Degree Hospitality Management,elettivo,[None]
+p309160,Nadia,Romeo,F,1971-06-23,Rovigo,Rovigo,Laurea In Scienze Politiche E Relazioni Internazionali,elettivo,['Consulente Del Lavoro']
+p309161,Maria Paola,Boscaini,F,1954-09-22,Bussolengo,Verona,Laurea In Economia Aziendale,elettivo,[None]
+p309200,Antonio Maria,Gabellone,M,1959-09-16,Gallipoli,Lecce,Laurea In Farmacia,elettivo,['Farmacista']
+p309220,Alberto,Pandolfo,M,1985-11-29,Genova,Genova,Laurea In Ingegneria Edile - Architettura,elettivo,['Ingegnere']
+p32460,Umberto,Bossi,M,1941-09-19,Cassano Magnago,Varese,Diploma Di Liceo Scientifico,elettivo,['Giornalista']
+p34580,Bruno,Tabacci,M,1946-08-27,Quistello,Mantova,Laurea In Economia E Commercio,elettivo,[None]
+p35980,Luciano,Ciocchetti,M,1958-03-03,Roma,Roma,"Diploma Di Liceo Scientifico, Laurea In Scienze Politiche E Delle Relazioni Internazionali",elettivo,['Giornalista']
+p36500,Piero Franco,Fassino,M,1949-10-07,Avigliana,Torino,Laurea In Scienze Politiche,elettivo,['Dirigente Di Partito']
+p38560,Gianfranco,Rotondi,M,1960-07-25,Avellino,Avellino,Laurea In Giurisprudenza,elettivo,['Giornalista Professionista']
+p39130,Giulio Carlo Danilo,Tremonti,M,1947-08-18,Sondrio,Sondrio,Laurea In Giurisprudenza,elettivo,['Professore Ordinario Di Discipline Giuridiche; Avvocato']
+p50115,Giancarlo,Giorgetti,M,1966-12-16,Cazzago Brabbia,Varese,Laurea In Economia Aziendale,elettivo,[None]
+p50204,Tommaso,Foti,M,1960-04-28,Piacenza,Piacenza,Diploma Di Liceo Scientifico,elettivo,['Già Dirigente Di Azienda Privata']
