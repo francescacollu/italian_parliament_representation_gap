@@ -1,75 +1,63 @@
 import pandas as pd
+import os
 
-df = pd.read_csv('data/leg19_clean.csv')
+def analyze_general_education(df, pop_general_education, output_csv_path):
+    df['titolo_studio'] = df['titolo_studio'].fillna('not specified').str.lower()
 
-# Count total number of MPs
-total_mps = len(df)
-print(f"Total number of MPs: {total_mps}")
+    licenza_elementare = df['titolo_studio'].str.contains('licenza elementare').sum()
+    licenza_media = df['titolo_studio'].str.contains('licenza media').sum()
+    diploma = df['titolo_studio'].str.contains('diploma').sum()
+    laurea = df['titolo_studio'].str.contains('laurea').sum()
+    total = len(df)
 
-# Count MPs with no education listed
-null_education = df['titolo_studio'].isna().sum()
-print(f"\nMPs with no education listed: {null_education} ({null_education/total_mps*100:.2f}%)")
+    general_education = pd.DataFrame({
+        'massimo_titolo_studio': ['Licenza Media', 'Diploma', 'Laurea'],
+        'mp_count': [licenza_elementare+licenza_media, diploma, laurea],
+        'mp_percentage': [(licenza_elementare+licenza_media)/total, diploma/total, laurea/total]
+    })
 
-# Get all unique education titles
-all_education = []
-for edu_str in df['titolo_studio'].dropna():
-    edu_list = edu_str.strip('[]').split(',')
-    edu_list = [edu.strip().strip("'") for edu in edu_list]
-    all_education.extend(edu_list)
-unique_education = set(all_education)
-print(f"\nNumber of unique education titles: {len(unique_education)}")
+    comparison = pd.merge(general_education, pop_general_education, on='massimo_titolo_studio', how='outer')
+    comparison['representation_index'] = comparison['mp_percentage'] / comparison['pop_percentage']
 
-# Count frequency of each education title
-education_counts = pd.Series(all_education).value_counts()
-print("\nTop 10 most common education titles:")
-print(education_counts.head(10))
+    os.makedirs('results', exist_ok=True)
+    comparison.to_csv(output_csv_path, index=False)
+    print(f"Distribution data saved to " + output_csv_path)
 
-# Save detailed education analysis to CSV
-education_analysis = pd.DataFrame({
-    'education_title': education_counts.index,
-    'count': education_counts.values,
-    'percentage': (education_counts.values / total_mps * 100)
-})
-education_analysis.to_csv('results/education_analysis.csv', index=False)
+def analyze_university_education(df, laureati_pop2022, output_csv_path):
+    df['titolo_studio'] = df['titolo_studio'].fillna('not specified').str.lower()
+    excluded_values = ['na', 'diploma', 'licenza elementare', 'licenza media']
+    df_laureati = df[~df['titolo_studio'].str.contains('|'.join(excluded_values), case=False, na=False)]
 
-# Create a distribution of number of education titles per MP
-edu_count_per_mp = df['titolo_studio'].str.count(',') + 1
-print("\nDistribution of number of education titles per MP:")
-print(edu_count_per_mp.value_counts().sort_index())
-
-# Function to categorize education titles into standardized groups
-def categorize_education(education_text):
-    if not isinstance(education_text, str):
-        return "Unknown"
+    mp_counts = df_laureati['gruppo_laurea'].value_counts()
+    total_laureati = len(df_laureati)
     
-    education_text = education_text.lower()
-    
-    categories = {
-        'laurea': ['laurea', 'dottore', 'dottorato', 'phd', 'master', 'specializzazione'],
-        'diploma': ['diploma', 'maturità', 'liceo', 'istituto', 'scuola'],
-        'certificate': ['certificato', 'attestato', 'qualifica'],
-        'other': ['altro', 'altra', 'altri', 'altre']
-    }
-    
-    for category, keywords in categories.items():
-        for keyword in keywords:
-            if keyword in education_text:
-                return category
-    
-    return "Other"
+    mp_education = pd.DataFrame({
+        'gruppo_laurea': mp_counts.index,
+        'mp_count': mp_counts.values,
+        'mp_percentage': mp_counts.values / total_laureati
+    })
 
-# Categorize education titles
-df['education_category'] = df['titolo_studio'].apply(lambda x: [categorize_education(edu.strip().strip("'")) for edu in str(x).strip('[]').split(',')] if pd.notna(x) else ['Unknown'])
+    comparison = pd.merge(mp_education, laureati_pop2022, on='gruppo_laurea', how='outer')
 
-# Count frequency of each education category
-education_category_counts = pd.Series([cat for cats in df['education_category'] for cat in cats]).value_counts()
-print("\nDistribution of education categories:")
-print(education_category_counts)
+    comparison['mp_count'] = comparison['mp_count'].fillna(0)
+    comparison['mp_percentage'] = comparison['mp_percentage'].fillna(0)
 
-# Save education category analysis to CSV
-education_category_analysis = pd.DataFrame({
-    'education_category': education_category_counts.index,
-    'count': education_category_counts.values,
-    'percentage': (education_category_counts.values / total_mps * 100)
-})
-education_category_analysis.to_csv('results/education_category_analysis.csv', index=False) 
+    comparison['representation_index'] = comparison['mp_percentage'] / comparison['pop_percentage']
+
+    comparison = comparison.sort_values('mp_count', ascending=False)
+
+    os.makedirs('results', exist_ok=True)
+    comparison.to_csv(output_csv_path, index=False)
+    print(f"University education distribution data saved to {output_csv_path}")
+
+def main():
+    df = pd.read_csv('data/leg19_clean_updated.csv')
+
+    pop_general_education = pd.read_csv('data/pop_general_education.csv')
+    laureati_pop2022 = pd.read_csv('data/laureati_pop2022.csv')
+
+    analyze_general_education(df, pop_general_education,'results/general_education_analysis.csv')
+    analyze_university_education(df, laureati_pop2022, 'results/university_education_analysis.csv')
+
+if __name__ == "__main__":
+    main() 
