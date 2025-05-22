@@ -1,7 +1,6 @@
 import pandas as pd
-import plotly.express as px
 
-df = pd.read_csv('data/leg19_clean.csv')
+df = pd.read_csv('data/leg19_clean_updated.csv')
 
 def analyze_gender(dataframe, output_csv_path):
     """Calculates gender counts and percentages and saves to CSV."""

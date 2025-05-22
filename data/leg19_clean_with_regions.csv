@@ -45,12 +45,12 @@ id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studi
 29185,Erika,Stefani,F,1971-07-18,Valdagno,Vicenza,Laurea in Giurisprudenza,elettivo,['Avvocato'],Veneto
 29270,Lorenzo,Basso,M,1976-02-19,Genova,Genova,,elettivo,['Imprenditore'],Liguria
 29273,Alfredo,Bazoli,M,1969-12-15,Brescia,Brescia,Laurea in Giurisprudenza,elettivo,['Avvocato'],Lombardia
-29291,Mario Alejandro,Borghese,M,1981-04-14,Cordoba,,Laurea in Medicina,elettivo,"['Medico', 'Docente universitario', 'Chirurgo dermatologo']",Estero
+29291,Mario Alejandro,Borghese,M,1981-04-14,Cordoba,Argentina,Laurea in Medicina,elettivo,"['Medico', 'Docente universitario', 'Chirurgo dermatologo']",Estero
 29292,Stefano,Borghesi,M,1977-09-16,Brescia,Brescia,,elettivo,"['Commercialista', 'Dottore commercialista, revisore legale', 'Dottore commercialista e revisore legale']",Lombardia
 29293,Enrico,Borghi,M,1967-08-06,Premosello-Chiovenda,Verbano Cusio Ossola,,elettivo,['Dirigente'],Piemonte
 29406,Silvia,Fregolent,F,1972-01-25,Torino,Torino,Laurea in Giurisprudenza,elettivo,['Avvocato'],Piemonte
 29425,Andrea,Giorgis,M,1965-04-12,Torino,Torino,,elettivo,"['Docente universitario', 'Professore universitario', 'Professore di diritto costituzionale - facoltà di giurisprudenza, università di torino']",Piemonte
-29447,Francesca,La Marca,F,1975-10-30,Toronto,,Laurea In Lettere E Dottorato Di Ricerca In Letteratura Francese,elettivo,['Docente universitario'],Estero
+29447,Francesca,La Marca,F,1975-10-30,Toronto,Canada,Laurea In Lettere E Dottorato Di Ricerca In Letteratura Francese,elettivo,['Docente universitario'],Estero
 29467,Simona Flavia,Malpezzi,F,1972-08-22,Cernusco Sul Naviglio,Milano,Laurea In Lettere,elettivo,['Insegnante'],Lombardia
 29480,Roberto,Marti,M,1974-06-11,Lecce,Lecce,Laurea In Giurisprudenza,elettivo,['Imprenditore'],Puglia
 29490,Marco,Meloni,M,1971-06-16,Quartu Sant'Elena,Cagliari,Laurea in Giurisprudenza,elettivo,['Avvocato'],Sardegna
@@ -123,7 +123,7 @@ id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studi
 33946,Gianpietro,Maffoni,M,1951-11-02,Orzinuovi,Brescia,,elettivo,['Imprenditore'],Lombardia
 34243,Andrea,Paganella,M,1974-12-03,Roncoferraro,Mantova,,elettivo,['Imprenditore'],Lombardia
 34485,Nicola,Calandrini,M,1966-11-05,Latina,Latina,,elettivo,"['Commercialista', 'Consulente legale, revisore legale']",Lazio
-34558,Lavinia,Mennuni,F,1976-04-17,Southampton,,Laurea in Giurisprudenza,elettivo,['Avvocato'],Estero
+34558,Lavinia,Mennuni,F,1976-04-17,Southampton,Inghilterra,Laurea in Giurisprudenza,elettivo,['Avvocato'],Estero
 35489,Cinzia,Pellegrino,F,1975-07-17,Poggiardo,Lecce,,elettivo,['Consulente'],Puglia
 36013,Tilde,Minasi,F,1960-07-24,Reggio Di Calabria,Reggio di Calabria,Laurea in Giurisprudenza,elettivo,['Avvocato'],Calabria
 36381,Vincenza,Aloisio,F,1946-12-15,Muro Lucano,Potenza,Laurea in Medicina,elettivo,"['Medico', 'Medico, dirigente, insegnante']",Basilicata
@@ -176,7 +176,7 @@ id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studi
 36429,Ylenia,Zambito,F,1974-06-27,Pisa,Pisa,Laurea In Chimica E Dottorato Di Ricerca In Chimica,elettivo,"['Docente universitario', 'Professoressa universitaria']",Toscana
 36430,Antonella,Zedda,F,1976-01-17,Cagliari,Cagliari,,elettivo,"['Assicuratore', 'Assicuratore, consulente']",Sardegna
 36431,Michele,Barcaiuolo,M,1979-02-07,MODENA,Modena,Laurea in Giurisprudenza,elettivo,['Avvocato'],Emilia-Romagna
-36432,Susanna Donatella,Campione,F,1966-02-03,Tripoli,,Laurea in Giurisprudenza,elettivo,['Avvocato'],Estero
+36432,Susanna Donatella,Campione,F,1966-02-03,Tripoli,Libia,Laurea in Giurisprudenza,elettivo,['Avvocato'],Estero
 36433,Matteo,Gelmetti,M,1975-06-12,VERONA,Verona,,elettivo,['Consulente'],Veneto
 36434,Sabrina,Licheri,F,1971-06-04,ASSEMINI,Cagliari,Diploma Di Ragioneria,elettivo,"['Consulente aziendale', 'Consulente', 'Assistente amministrativo']",Sardegna
 36435,Marco,Lisei,M,1977-03-15,BOLOGNA,Bologna,Laurea in Giurisprudenza,elettivo,['Avvocato'],Emilia-Romagna

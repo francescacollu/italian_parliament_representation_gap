@@ -45,12 +45,12 @@ id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studi
 29185,Erika,Stefani,F,1971-07-18,Valdagno,Vicenza,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
 29270,Lorenzo,Basso,M,1976-02-19,Genova,Genova,Diploma Di Liceo Scientifico,Diploma,elettivo,['Imprenditore']
 29273,Alfredo,Bazoli,M,1969-12-15,Brescia,Brescia,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
-29291,Mario Alejandro,Borghese,M,1981-04-14,CORDOBA,,Laurea in Medicina,Medico-sanitario e farmaceutico,elettivo,"['Medico', 'Docente universitario', 'Chirurgo dermatologo']"
+29291,Mario Alejandro,Borghese,M,1981-04-14,Cordoba,Argentina,Laurea in Medicina,Medico-sanitario e farmaceutico,elettivo,"['Medico', 'Docente universitario', 'Chirurgo dermatologo']"
 29292,Stefano,Borghesi,M,1977-09-16,Brescia,Brescia,Laurea In Economia E Commercio,Economico,elettivo,"['Commercialista', 'Dottore commercialista, revisore legale', 'Dottore commercialista e revisore legale']"
 29293,Enrico,Borghi,M,1967-08-06,Premosello-Chiovenda,Verbano Cusio Ossola,Laurea In Scienze Politiche,Politico-sociale e comunicazione,elettivo,['Dirigente']
 29406,Silvia,Fregolent,F,1972-01-25,Torino,Torino,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
 29425,Andrea,Giorgis,M,1965-04-12,Torino,Torino,Laurea in Giurisprudenza,Giuridico,elettivo,"['Docente universitario', 'Professore universitario', 'Professore di diritto costituzionale - facoltà di giurisprudenza, università di torino']"
-29447,Francesca,La Marca,F,1975-10-30,TORONTO,,Laurea In Lettere E Dottorato Di Ricerca In Letteratura Francese,Letterario-umanistico,elettivo,['Docente universitario']
+29447,Francesca,La Marca,F,1975-10-30,Toronto,Canada,Laurea In Lettere E Dottorato Di Ricerca In Letteratura Francese,Letterario-umanistico,elettivo,['Docente universitario']
 29467,Simona Flavia,Malpezzi,F,1972-08-22,Cernusco Sul Naviglio,Milano,Laurea In Lettere,Letterario-umanistico,elettivo,['Insegnante']
 29480,Roberto,Marti,M,1974-06-11,Lecce,Lecce,Laurea In Giurisprudenza,Giuridico,elettivo,['Imprenditore']
 29490,Marco,Meloni,M,1971-06-16,Quartu Sant'Elena,Cagliari,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
@@ -123,7 +123,7 @@ id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studi
 33946,Gianpietro,Maffoni,M,1951-11-02,Orzinuovi,Brescia,Diploma Di Ragioneria,Diploma,elettivo,['Imprenditore']
 34243,Andrea,Paganella,M,1974-12-03,Roncoferraro,Mantova,Diploma Di Liceo Scientifico,Diploma,elettivo,['Imprenditore']
 34485,Nicola,Calandrini,M,1966-11-05,Latina,Latina,Diploma Di Ragioneria,Diploma,elettivo,"['Commercialista', 'Consulente legale, revisore legale']"
-34558,Lavinia,Mennuni,F,1976-04-17,Southampton,,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
+34558,Lavinia,Mennuni,F,1976-04-17,Southampton,Inghilterra,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
 35489,Cinzia,Pellegrino,F,1975-07-17,Poggiardo,Lecce,"Laurea In Ingegneria Gestionale, Master in Gestione di Impresa",Ingegneria industriale e dell'informazione,elettivo,['Consulente']
 36013,Tilde,Minasi,F,1960-07-24,Reggio Di Calabria,Reggio di Calabria,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
 36381,Vincenza,Aloisio,F,1946-12-15,Muro Lucano,Potenza,Laurea in Medicina,Medico-sanitario e farmaceutico,elettivo,"['Medico', 'Medico, dirigente, insegnante']"
@@ -176,7 +176,7 @@ id,nome,cognome,genere,data_nascita,citta_nascita,provincia_nascita,titolo_studi
 36429,Ylenia,Zambito,F,1974-06-27,Pisa,Pisa,Laurea In Chimica E Dottorato Di Ricerca In Chimica,Scientifico,elettivo,"['Docente universitario', 'Professoressa universitaria']"
 36430,Antonella,Zedda,F,1976-01-17,Cagliari,Cagliari,Diploma Di Istituto Tecnico Per Geometri,Diploma,elettivo,"['Assicuratore', 'Assicuratore, consulente']"
 36431,Michele,Barcaiuolo,M,1979-02-07,MODENA,Modena,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
-36432,Susanna Donatella,Campione,F,1966-02-03,Tripoli,,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
+36432,Susanna Donatella,Campione,F,1966-02-03,Tripoli,Libia,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
 36433,Matteo,Gelmetti,M,1975-06-12,VERONA,Verona,Laurea in Giurisprudenza,Giuridico,elettivo,['Consulente']
 36434,Sabrina,Licheri,F,1971-06-04,ASSEMINI,Cagliari,Diploma Di Ragioneria,Diploma,elettivo,"['Consulente aziendale', 'Consulente', 'Assistente amministrativo']"
 36435,Marco,Lisei,M,1977-03-15,BOLOGNA,Bologna,Laurea in Giurisprudenza,Giuridico,elettivo,['Avvocato']
@@ -228,7 +228,7 @@ p302103,Giorgia,Meloni,F,1977-01-15,Roma,Roma,Diploma Di Liceo Linguistico,Diplo
 p302422,Giovanni,Cuperlo,M,1961-09-03,Trieste,Trieste,"Laurea In Discipline Dell'Arte, Della Musica E Dello Spettacolo",Arte e design,elettivo,['Funzionario']
 p302746,Vinicio Giuseppe Guido,Peluffo,M,1971-03-21,Rho,Milano,Laurea In Scienze Giuridiche,Giuridico,elettivo,['Dirigente Di Partito']
 p302748,Eugenia Maria,Roccella,F,1953-11-15,Bologna,Bologna,"Laurea In Lettere, Dottorato Di Ricerca",Letterario-umanistico,elettivo,['Giornalista']
-p302754,Chiara,Braga,F,1979-09-02,Como,Como,"Laurea In Pianificazione Territoriale, Urbanistica Ed Ambientale","Laurea In Pianificazione Territoriale, Urbanistica Ed Ambientale",elettivo,['Urbanista']
+p302754,Chiara,Braga,F,1979-09-02,Como,Como,"Laurea In Pianificazione Territoriale, Urbanistica Ed Ambientale",Architettura e ingegneria civile,elettivo,['Urbanista']
 p302762,Nicola,Molteni,M,1976-03-06,Cantu',Como,Laurea In Giurisprudenza,Giuridico,elettivo,['Avvocato']
 p302764,Silvana Andreina,Comaroli,F,1967-03-27,Soncino,Cremona,Laurea In Economia E Commercio,Economico,elettivo,['Responsabile Amministrativo']
 p302789,Maria Anna,Madia,F,1980-09-05,Roma,Roma,"Laurea In Scienze Politiche, Dottorato Di Ricerca In Economia",Economico,elettivo,['Parlamentare']
